@@ -5,9 +5,8 @@ url: '/get-involved.html'
 
 ## Want to Help?
 
-The Perl & Raku Foundation exists to promote and
-support community efforts around the Perl and Raku
-programming languages. We encourage you to contribute
+The Perl & Raku Foundation exists to promote and support community efforts
+around the Perl and Raku programming languages. We encourage you to contribute
 by:
 
 - Joining your local [Perl Mongers](http://www.pm.org/) group
@@ -22,63 +21,53 @@ by:
     language and as a community, is to make a tax-deductible
     [donation to the Perl Foundation](donate.html).
 
-Board candidacy
+## Board candidacy
 
 This is the path to joining the Foundation Board:
 
 ### 1. Nomination
 
-A new member is nominated by one or more Board
-members, and must be seconded.
+A new member is nominated by one or more Board members, and must be seconded.
 
-If you would like
-to propose yourself or someone else for nomination, contact
-a member of the board or email
-[board@perlfoundation.org](mailto:board@perlfoundation.org) with the following information:
+If you would like to propose yourself or someone else for nomination, contact a
+member of the board or email
+[board@perlfoundation.org](mailto:board@perlfoundation.org) with the following
+information:
 
 - Bio
-- If you purport to represent a
-  community, that community should validate your
+- If you purport to represent a community, that community should validate your
   application
-- Your reasons for
-  wishing to become a member of the Board?
-- What goals you would like to see the Foundation pursue over
-  the next 12-24 months?
+- Your reasons for wishing to become a member of the Board?
+- What goals you would like to see the Foundation pursue over the next 12-24
+  months?
 
-This information will be
-posted publicly.
+This information will be posted publicly.
 
 ### 2. Eligibility
 
-The nominee must be an active volunteer in the
-communities for 180 days or more or who have previously
-played a significant role in the community or Foundation
+The nominee must be an active volunteer in the communities for 180 days or more
+or who have previously played a significant role in the community or Foundation
 even if no longer active.
 
 ### 3. Public hearing
 
-A public post will be made to ask for input from the
-community. The post will have the nominee's bio and reasons
-for nomination, as detailed above.
+A public post will be made to ask for input from the community. The post will
+have the nominee's bio and reasons for nomination, as detailed above.
 
 ### 4. Election
 
 Election will be made by the Board Members after
 feedback is gathered from the communities.
 
-### Evaluation criteria
+## Evaluation criteria
 
 Potential Board members ideally will:
 
-have experience on other FOSS boards
+- have experience on other FOSS boards
 
-have not for profit experience
-have
-management experience
-have start-up
-experience
+- have not for profit experience
+- have management experience
+- have start-up experience
 
-Any questions and further
-information
-If you have any questions please get in
+Any questions and further information If you have any questions please get in
 touch with [makoto@perlfoundation.org](mailto:makoto@perlfoundation.org)

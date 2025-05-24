@@ -13,7 +13,7 @@ url: '/committees.html'
 - Thomas Klausner
 - Todd Rinaldo
 
-Current Grant Managers
+### Current Grant Managers
 
 - Matthew Horsfall
 
@@ -37,12 +37,3 @@ Current Grant Managers
 - Graham Barr CPAN
 - Ask Bjorn Hansen, Robert Spier Perl.org
 - Matthias Bloch
-
-Affiliates
-
-- [Perl.com](http://www.perl.com/)
-- [Perl.org](http://www.perl.org/)
-- [Perl Jobs](http://jobs.perl.org/)
-- [Perl Mongers](http://www.pm.org/)
-- [Perl Monks](http://perlmonks.org/)
-- [CPAN](http://www.cpan.org/)

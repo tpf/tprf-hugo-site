@@ -16,9 +16,12 @@ for [Perl 5](http://www.perl.org/get.html), [Raku](http://dev.perl.org/perl6/), 
 
 Affiliates
 
-[Perl.com](http://www.perl.com/)
-[Perl.org](http://www.perl.org/)
-[Perl Jobs](http://jobs.perl.org/)
-[Perl Mongers](http://www.pm.org/)
-[Perl Monks](http://perlmonks.org/)
-[CPAN](http://www.cpan.org/)
+- [Perl.com](https://www.perl.com)
+- [Perl.org](https://www.perl.org/)
+- [Perl Merch](https://the-perl-store.creator-spring.com/)
+- [RAKU](https://www.raku.org)
+- [Raku Merch](https://www.freewear.org/PerlandRaku)
+- [Perl Jobs](https://jobs.perl.org/)
+- [Perl Mongers](https://www.pm.org)
+- [PerlMonks](https://www.perlmonks.org)
+- [CPAN](https://www.cpan.org/)

@@ -1,10 +1,7 @@
 ---
-title: 'TPF Bylaws'
+title: 'Bylaws of Yet Another Society'
 url: '/bylaws.html'
 ---
-
-### BYLAWS OF YET ANOTHER SOCIETY
-
 ### ARTICLE I
 
 OFFICES

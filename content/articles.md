@@ -3,8 +3,6 @@ title: 'Articles of Incorporation'
 url: '/articles.html'
 ---
 
-ARTICLES OF INCORPORATION OF YET ANOTHER SOCIETY
-
 ### ARTICLES OF INCORPORATION OF YET ANOTHER SOCIETY
 
 Pursuant to the provisions of the Michigan Nonprofit

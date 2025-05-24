@@ -47,7 +47,9 @@ Address:
 
 ---
 
-Country: ********\_\_\_\_********
+Country:
+
+---
 
 1. Definitions.
 
@@ -167,7 +169,12 @@ the party signing this CLA.
    FITNESS FOR A PARTICULAR PURPOSE.
 
 Signature:
-**************\_\_\_\_************** Date: ******\_\_******
+
+---
+
+Date:
+
+---
 
 Schedule
 1 Prior Contributions

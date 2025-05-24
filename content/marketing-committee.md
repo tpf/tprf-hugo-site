@@ -1,9 +1,7 @@
 ---
-title: 'Marketing Committee'
+title: 'Marketing Committee Charter'
 url: '/marketing-committee.html'
 ---
-
-Marketing Committee Charter
 
 ### 1. Purpose
 

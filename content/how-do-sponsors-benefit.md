@@ -108,6 +108,6 @@ $6,000 ($500/mo)
 - Name listed on The Perl & Raku Foundation's donor page
 - Name listed on sponsor's page for all Perl & Raku Foundation events
 
-How to donate
+## How to donate
 
 Visit our [Donations](donate.html) page.

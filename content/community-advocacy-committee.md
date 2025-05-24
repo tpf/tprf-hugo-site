@@ -1,10 +1,7 @@
 ---
-title: 'Community Advocacy Committee'
+title: 'Community Advocacy Committee Charter'
 url: '/community-advocacy-committee.html'
 ---
-
-Community Advocacy Committee Charter
-
 ### 1. Purpose
 
 The Community Advocacy

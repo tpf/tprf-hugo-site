@@ -1,10 +1,7 @@
 ---
-title: 'Grants Committee'
+title: 'Grants Committee Charter'
 url: '/grants-committee.html'
 ---
-
-Grants Committee Charter
-
 1. Purpose
    The Grants Committee shall manage all Yet Another Society
    operations related to grants issued under The Perl
