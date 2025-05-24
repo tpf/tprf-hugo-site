@@ -1,5 +1,5 @@
 ---
-title: "Articles - The Perl and Raku Foundation"
+title: "Articles of Incorporation"
 url:   "/articles.html"
 ---
 ARTICLES OF INCORPORATION OF YET ANOTHER SOCIETY

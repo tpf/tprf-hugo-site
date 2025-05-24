@@ -1,8 +1,11 @@
 ---
-title: "Complete YAML::PP Report #6 - The Perl and Raku Foundation"
+title: "Complete YAML::PP Report #6"
 url:   "/complete-yamlpp-report-6.html"
 ---
-Complete YAML::PP Report #6By Mark A Jensen
+Complete YAML::PP Report #6
+
+By Mark A Jensen
+
 March 6, 2018
 
 Tinita spent about 20 hours coding [YAML::PP](complete-yamlpp.html) this month.

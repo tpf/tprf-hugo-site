@@ -1,5 +1,5 @@
 ---
-title: "Community Advocacy Committee - The Perl and Raku Foundation"
+title: "Community Advocacy Committee"
 url:   "/community-advocacy-committee.html"
 ---
 Community Advocacy Committee Charter

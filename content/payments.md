@@ -1,8 +1,8 @@
 ---
-title: "Payments - The Perl and Raku Foundation"
+title: "Payments"
 url:   "/payments.html"
 ---
-PaymentsDonations / Accounts Receivable
+Donations / Accounts Receivable
 
 Interested in making a donation or payment to The Perl
 Foundation? The most simple way to do so is by

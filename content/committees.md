@@ -1,5 +1,5 @@
 ---
-title: "Committees - The Perl and Raku Foundation"
+title: "Committees"
 url:   "/committees.html"
 ---
 ## Grants

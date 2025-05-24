@@ -1,8 +1,8 @@
 ---
-title: "CPAN Licensing Guidelines - The Perl and Raku Foundation"
+title: "CPAN Licensing Guidelines"
 url:   "/cpan-licensing-guidelines.html"
 ---
-CPAN Licensing GuidelinesThis page provides some guidelines for including copyright
+This page provides some guidelines for including copyright
 and license notices in CPAN modules. The intention is that
 these guidelines can be used to create a code-kwalitee tool
 to check CPAN modules for license and copyright notics.

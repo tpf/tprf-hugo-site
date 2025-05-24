@@ -1,8 +1,8 @@
 ---
-title: "Artistic License 2.0 - The Perl and Raku Foundation"
+title: "Artistic License 2.0"
 url:   "/artistic-license-20.html"
 ---
-Artistic License 2.0Copyright (c) 2000-2006, The Perl Foundation.
+Copyright (c) 2000-2006, The Perl Foundation.
 Everyone
 is permitted to copy and distribute verbatim copies of this
 license document, but changing it is not allowed.

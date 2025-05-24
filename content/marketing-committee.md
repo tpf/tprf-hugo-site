@@ -1,5 +1,5 @@
 ---
-title: "Marketing Committee - The Perl and Raku Foundation"
+title: "Marketing Committee"
 url:   "/marketing-committee.html"
 ---
 Marketing Committee Charter

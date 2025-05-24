@@ -1,5 +1,5 @@
 ---
-title: "About - The Perl and Raku Foundation"
+title: "About The Perl and Raku Foundation"
 url:   "/about.html"
 ---
 The Perl Foundation is dedicated to the advancement of the Perl and Raku

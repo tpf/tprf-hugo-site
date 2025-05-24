@@ -1,9 +1,7 @@
 ---
-title: "The Board - The Perl and Raku Foundation"
+title: "The Board"
 url:   "/the-board.html"
 ---
-The BoardAbout the Board
-
 The board of directors is the decision making body of
 the Foundation. It meets once per month and convenes for
 additional meetings when required. The board also engages

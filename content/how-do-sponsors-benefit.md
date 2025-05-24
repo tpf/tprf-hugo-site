@@ -1,5 +1,5 @@
 ---
-title: "How Do Sponsors Benefit? - The Perl and Raku Foundation"
+title: "How Do Sponsors Benefit?"
 url:   "/how-do-sponsors-benefit.html"
 ---
 

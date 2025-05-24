@@ -1,5 +1,5 @@
 ---
-title: "Test2 Manual: Report #4 - The Perl and Raku Foundation"
+title: "Test2 Manual: Report #4"
 url:   "/test2-manual-report-4.html"
 ---
 Test2 Manual: Report #4By

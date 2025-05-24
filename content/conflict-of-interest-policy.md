@@ -1,8 +1,8 @@
 ---
-title: "Conflict of Interest Policy - The Perl and Raku Foundation"
+title: "Conflict of Interest Policy"
 url:   "/conflict-of-interest-policy.html"
 ---
-Conflict of Interest PolicyThe purpose of this policy is to protect The Perl
+The purpose of this policy is to protect The Perl
 Foundation's interests when it is considering entering into
 a transaction or arrangement that might benefit the private
 interest of an officer or director of the foundation. This

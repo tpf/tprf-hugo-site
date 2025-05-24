@@ -1,8 +1,8 @@
 ---
-title: "Artistic Notes 2.0 - The Perl and Raku Foundation"
+title: "Artistic Notes 2.0"
 url:   "/artistic-notes-20.html"
 ---
-Artistic Notes 2.0(The heart of the Artistic license is the idea that
+(The heart of the Artistic license is the idea that
 artists, people who create things, should be able to have
 ongoing artistic involvement in their work. The goal of the
 Artistic 2.0 revision is to make the terms of the original

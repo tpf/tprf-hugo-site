@@ -1,8 +1,11 @@
 ---
-title: "Test2 Manual - The Perl and Raku Foundation"
+title: "Test2 Manual"
 url:   "/test2-manual.html"
 ---
-Test2 ManualBy Makoto Nozaki
+Test2 Manual
+
+By Makoto Nozaki
+
 March 29, 2016
 
 The Grants Committee has received one grant proposal for

@@ -1,8 +1,8 @@
 ---
-title: "Contributor License Agreement - The Perl and Raku Foundation"
+title: "Contributor License Agreement"
 url:   "/contributor-license-agreement.html"
 ---
-Contributor License AgreementThis non-exclusive license is designed to serve the Perl
+This non-exclusive license is designed to serve the Perl
 community, including contributors to projects of the Perl
 Foundation ("Foundation"), the open source projects and
 products the Foundation supports, and the users of these

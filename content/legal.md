@@ -1,8 +1,8 @@
 ---
-title: "Legal - The Perl and Raku Foundation"
+title: "Legal"
 url:   "/legal.html"
 ---
-LegalThe Perl Foundation is a legally registered DBA (Doing
+The Perl Foundation is a legally registered DBA (Doing
 Business As) name of Yet Another Society. The foundation
 incorporated as Yet Another Society, so that's the name
 you'll see in the earlier documents. We now use the name

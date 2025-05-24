@@ -1,8 +1,7 @@
 ---
-title: "Bylaws - The Perl and Raku Foundation"
+title: "TPF Bylaws"
 url:   "/bylaws.html"
 ---
-TPF Bylaws
 ### BYLAWS OF YET ANOTHER SOCIETY
 
 ### ARTICLE I

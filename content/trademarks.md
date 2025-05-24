@@ -1,32 +1,26 @@
 ---
-title: "Trademarks - The Perl and Raku Foundation"
+title: "Trademarks"
 url:   "/trademarks.html"
 ---
-Trademark InformationThe work of The Perl & Raku Foundation includes making
-sure that Perl
-& Raku code and documentation are free and open for all to use,
-and remain free and open for all to use. One of the many
-ways we do this is through Perl & Raku trademarks. The Perl
-& Raku trademarks are tools we can use to identify Perl & Raku code, documentation, projects, and other material
-originating with Perl & Raku, or licensees who agree to and follow certain
-requirements.
+The work of The Perl & Raku Foundation includes making sure that Perl & Raku
+code and documentation are free and open for all to use, and remain free and
+open for all to use. One of the many ways we do this is through Perl & Raku
+trademarks. The Perl & Raku trademarks are tools we can use to identify Perl &
+Raku code, documentation, projects, and other material originating with Perl &
+Raku, or licensees who agree to and follow certain requirements.
 
-But our responsibility is also
-partly the responsibility of the Perl
-& Raku communities.
+But our responsibility is also partly the responsibility of the Perl & Raku
+communities.
 
-By helping us protect the Perl & Raku trademarks, you help us protect the openness and
-integrity of the Perl
-& Raku languages.
+By helping us protect the Perl & Raku trademarks, you help us protect the
+openness and integrity of the Perl & Raku languages.
 
-These guidelines are intended to
-cover general situations, in a general way.
+These guidelines are intended to cover general situations, in a general way.
 
-Sometimes
-TPRF may have different or additional requirements for
-specific situations.
+Sometimes TPRF may have different or additional requirements for specific
+situations.
 
-User Logos
+## User Logos
 
 Any individual, organization, or company may use the
 "Powered by Perl" or "Programming Republic of Perl" logos
@@ -36,24 +30,22 @@ these logos should always link to [http://www.perl.org](http://www.perl.org/). T
 promote products and services, or to create the impression
 of an endorsement or certification by TPRF.
 
-[![Picture](/images/uploads/1/0/6/6/106663517/powered-by-perl-300px_orig.png)]
+![Powered by Perl](/images/uploads/1/0/6/6/106663517/powered-by-perl-300px_orig.png)
 
-[![Picture](/images/uploads/1/0/6/6/106663517/powered-by-perl-135px_orig.png)]
+![Picture](/images/uploads/1/0/6/6/106663517/powered-by-perl-135px_orig.png)
 
-[![Picture](/images/uploads/1/0/6/6/106663517/programming-republic-of-perl-300px_orig.png)]
+![Picture](/images/uploads/1/0/6/6/106663517/programming-republic-of-perl-300px_orig.png)
 
-[![Picture](/images/uploads/1/0/6/6/106663517/programming-republic-of-perl-150px_orig.png)]
+![Picture](/images/uploads/1/0/6/6/106663517/programming-republic-of-perl-150px_orig.png)
 
-Perl Marks for Use by TPRF Organizations
+## Perl Marks for Use by TPRF Organizations
 
 The Perl logo, the Perl Foundation logo, and the bare
 onion logo are available for use by Perl Mongers,
 PerlMonks, and Perl.org, which are part of TPRF.
 
-These
-Perl marks are available for use on their websites and
-materials promoting Perl, TPF, and their projects (on
-t-shirts, mugs, flyers, etc.).
+These Perl marks are available for use on their websites and materials
+promoting Perl, TPF, and their projects (on t-shirts, mugs, flyers, etc.).
 
 This
 authorization to use the Perl logo is limited to uses by
@@ -65,11 +57,11 @@ organizations should contact us at [[email protected]](cdn-cgi/l/email-protectio
 logo, and answers to any questions they have about use of
 the logo.
 
-[![Picture](/images/uploads/1/0/6/6/106663517/perl-logo-32x104_orig.png)]
+![Picture](/images/uploads/1/0/6/6/106663517/perl-logo-32x104_orig.png)
 
-[![Picture](/images/uploads/1/0/6/6/106663517/onion-32x32_orig.png)]
+![Picture](/images/uploads/1/0/6/6/106663517/onion-32x32_orig.png)
 
-Use of Perl Marks by YAPC
+## Use of Perl Marks by YAPC
 
 The affiliated YAPC conferences around the world may use
 the Perl logo on their websites or materials promoting the
@@ -77,9 +69,9 @@ conferences with prior written permission from TPF.
 Contact [[email protected]](cdn-cgi/l/email-protection.html#2551574441404844574e6555405749434a504b4144514c4a4b0b4a5742) for permission, and once permission is granted, for
 high-resolution versions of the Perl logo.
 
-[![Picture](/images/uploads/1/0/6/6/106663517/perl-logo-32x104_1.png)]
+![Picture](/images/uploads/1/0/6/6/106663517/perl-logo-32x104_1.png)
 
-Perl Marks Available for Perl Redistributors
+## Perl Marks Available for Perl Redistributors
 
 Licensed redistributors of Perl code are permitted by
 their licenses to use the Perl logo in connection with
@@ -87,11 +79,11 @@ their distribution services, on product packaging, and in
 promotional materials. Contact [[email protected]](cdn-cgi/l/email-protection.html#0e7a7c6f6a6b636f7c654e7e6b7c6268617b606a6f7a67616020617c69) for more information on becoming a licensed Perl
 redistributor.
 
-Other Uses
+## Other Uses
 
 For any other uses, contact us at [[email protected]](cdn-cgi/l/email-protection.html#7b0f091a1f1e161a09103b0b1e09171d140e151f1a0f1214155514091c) to discuss your proposal.
 
-Use Guidelines
+## Use Guidelines
 
 Anyone who uses any Perl mark is required to comply with
 these use guidelines, as well as the requirements in your
@@ -118,9 +110,9 @@ A notice which identifies TPF as the mark's owner must
 also be used. For example: "The Perl logo is a trademark
 of the Perl Foundation."
 
-[![Picture](/images/uploads/1/0/6/6/106663517/perl-r-demo_orig.png)]
+![Picture](/images/uploads/1/0/6/6/106663517/perl-r-demo_orig.png)
 
-Onions and the Perl Trademark
+## Onions and the Perl Trademark
 
 People sometimes ask if TPF's use of an onion in the Perl
 logo means that independent projects that use or relate to
@@ -143,7 +135,7 @@ independent onions that might not be. Contact us at [[email protected]](cdn-cgi/
 evaluate a particular logo or usage to see if it would be an
 infringement.
 
-Playing your Part
+## Playing your Part
 
 The Perl marks provide a valuable service to the Perl
 community and the public at large, and we are counting on

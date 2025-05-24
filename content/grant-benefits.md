@@ -1,5 +1,5 @@
 ---
-title: "Grant Benefits - The Perl and Raku Foundation"
+title: "Grant Benefits"
 url:   "/grant-benefits.html"
 ---
 Funding leading Perl developers and educators enables the

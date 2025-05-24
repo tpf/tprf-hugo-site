@@ -1,9 +1,10 @@
 ---
-title: "Test2 Manual: Report #3 - The Perl and Raku Foundation"
+title: "Test2 Manual: Report #3"
 url:   "/test2-manual-report-3.html"
 ---
-Test2 Manual: Report #3By
-[Alberto Simones](http://blogs.perl.org/users/alberto_simoes/)
+Test2 Manual: Report #3
+
+By [Alberto Simones](http://blogs.perl.org/users/alberto_simoes/)
 October 9, 20016
 
 In the last two months, Chad Granum has been working on

@@ -1,8 +1,7 @@
 ---
-title: "Grants - The Perl and Raku Foundation"
+title: "Grants"
 url:   "/grants.html"
 ---
-GrantsGrants
 Funding projects within the greater Perl and Raku
 communities enables developers, educators, and The Perl
 Foundation to advance the use and understanding of Perl and

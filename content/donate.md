@@ -1,5 +1,5 @@
 ---
-title: "Donate - The Perl and Raku Foundation"
+title: "Donate"
 url:   "/donate.html"
 ---
 There are many ways you can donate to The Perl Foundation:

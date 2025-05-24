@@ -1,8 +1,8 @@
 ---
-title: "Our Donors - The Perl and Raku Foundation"
+title: "Our Donors"
 url:   "/our-donors.html"
 ---
-Our donorsThe Perl Foundation extends our sincere thanks to all
+The Perl Foundation extends our sincere thanks to all
 our sponsors, large and small. If you would like to
 make a donation, [visit our donation page](donate.html).
 

@@ -1,5 +1,5 @@
 ---
-title: "Running Grants - The Perl and Raku Foundation"
+title: "Running Grants"
 url:   "/running-grants.html"
 ---
 [Optimizations building upon the new Raku dispatch

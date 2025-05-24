@@ -1,8 +1,8 @@
 ---
-title: "Grants Committee - The Perl and Raku Foundation"
+title: "Grants Committee"
 url:   "/grants-committee1.html"
 ---
-Grants CommitteeThe Grants Committee was formed in 2003 to oversee the
+The Grants Committee was formed in 2003 to oversee the
 allocation of grant funding withing the Perl Foundation.
 The individuals chosen to be committee members represent a
 wide range of positions in the Perl community, including

@@ -1,8 +1,9 @@
 ---
-title: "Grants Committee - The Perl and Raku Foundation"
+title: "Grants Committee"
 url:   "/grants-committee.html"
 ---
-Grants Committee CharterGrants Committee Charter
+Grants Committee Charter
+
 1. Purpose
 The Grants Committee shall manage all Yet Another Society
 operations related to grants issued under The Perl

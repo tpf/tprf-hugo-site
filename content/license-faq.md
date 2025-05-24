@@ -1,8 +1,7 @@
 ---
-title: "License FAQ - The Perl and Raku Foundation"
+title: "License FAQ"
 url:   "/license-faq.html"
 ---
-License FAQ
 ### Why has TPF adopted a CLA process?
 
 We

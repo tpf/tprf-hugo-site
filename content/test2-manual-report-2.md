@@ -1,9 +1,11 @@
 ---
-title: "Test2 Manual: Report #2 - The Perl and Raku Foundation"
+title: "Test2 Manual: Report #2"
 url:   "/test2-manual-report-2.html"
 ---
-Test2 Manual: Report #2By
-[Alberto Simoes](http://blogs.perl.org/users/alberto_simoes/)
+Test2 Manual: Report #2
+
+By [Alberto Simoes](http://blogs.perl.org/users/alberto_simoes/)
+
 August 2, 2016
 
 Chad has been working

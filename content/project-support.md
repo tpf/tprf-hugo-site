@@ -1,11 +1,8 @@
 ---
-title: "Project Support - The Perl and Raku Foundation"
+title: "Community Project Support"
 url:   "/project-support.html"
 ---
-Community Project Support
-
-TPRF administrative support for Community
-Projects.
+## TPRF administrative support for Community Projects.
 
 Introduction
 The board is here to help our Perl and Raku
@@ -170,6 +167,6 @@ Foundation as authorized to direct spending from this
 fund. The process by which funds are authorized by the
 project are to be determined by each project
 independently.
--   Your project will be listed as supported by the Foundation on our
-    website.
+
+-   Your project will be listed as supported by the Foundation on our website.
 -   A donation link will be provided on our website for your fund.

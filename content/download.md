@@ -1,5 +1,5 @@
 ---
-title: "Download Perl - The Perl and Raku Foundation"
+title: "Download Perl"
 url:   "/download.html"
 ---
 Download Perl and Raku
