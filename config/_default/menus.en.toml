@@ -1,0 +1,242 @@
+[[main]]
+none = "none"
+
+  [[main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[main]]
+  name = "About"
+  url = "/about.html"
+  weight = 2
+  identifier = "about"
+  hasChildren = true
+
+  [[main]]
+  parent = "about"
+  name = "News"
+  url = "http://news.perlfoundation.org/"
+  weight = 1
+  target = "_blank"
+
+  [[main]]
+  parent = "about"
+  name = "The Perl and Raku Conference NA"
+  url = "https://tprc.us"
+  weight = 1.5
+  target = "_blank"
+
+  [[main]]
+  parent = "about"
+  name = "The Board"
+  url = "/the-board.html"
+  weight = 2
+
+  [[main]]
+  parent = "about"
+  name = "Advisory Board"
+  url = "/advisory_board.html"
+  weight = 3
+
+  [[main]]
+  parent = "about"
+  name = "Committees"
+  url = "/committees.html"
+  weight = 4
+
+  [[main]]
+  parent = "about"
+  name = "Get Involved"
+  url = "/get-involved.html"
+  weight = 5
+
+  [[main]]
+  parent = "about"
+  name = "Perl Merchandise"
+  url = "https://the-perl-store.creator-spring.com/"
+  weight = 6
+  target = "_blank"
+
+  [[main]]
+  name = "Donate"
+  url = "/donate.html"
+  weight = 3
+  identifier = "donate"
+  hasChildren = true
+
+  [[main]]
+  parent = "donate"
+  name = "Our Donors"
+  url = "/our-donors.html"
+  weight = 1
+
+  [[main]]
+  parent = "donate"
+  name = "Payments"
+  url = "/payments.html"
+  weight = 2
+
+  [[main]]
+  parent = "donate"
+  name = "How Do Sponsors Benefit?"
+  url = "/how-do-sponsors-benefit.html"
+  weight = 3
+
+  [[main]]
+  name = "Grants"
+  url = "/grants.html"
+  weight = 4
+  identifier = "grants"
+  hasChildren = true
+
+  [[main]]
+  parent = "grants"
+  name = "Running Grants"
+  url = "/running-grants.html"
+  weight = 1
+
+  [[main]]
+  parent = "grants"
+  name = "Grants Committee"
+  url = "/grants-committee1.html"
+  weight = 2
+
+  [[main]]
+  parent = "grants"
+  name = "Grant Benefits"
+  url = "/grant-benefits.html"
+  weight = 3
+
+  [[main]]
+  parent = "grants"
+  name = "Grant Ideas"
+  url = "https://grants.perlfoundation.org/"
+  target = "_blank"
+  weight = 4
+
+  [[main]]
+  parent = "grants"
+  name = "How to Write a Proposal"
+  url = "/how-to-write-a-proposal.html"
+  weight = 5
+
+  [[main]]
+  parent = "grants"
+  name = "Perl Core Development Fund"
+  url = "/perl-core-development-fund.html"
+  weight = 6
+
+  [[main]]
+  parent = "grants"
+  name = "Raku Development Fund"
+  url = "/raku-development-fund.html"
+  weight = 7
+
+  [[main]]
+  parent = "grants"
+  name = "Project Support"
+  url = "/project-support.html"
+  weight = 8
+
+  [[main]]
+  name = "Legal"
+  url = "/legal.html"
+  weight = 6
+  identifier = "legal"
+  hasChildren = true
+
+  [[main]]
+  parent = "legal"
+  name = "Articles"
+  url = "/articles.html"
+  weight = 1
+
+  [[main]]
+  parent = "legal"
+  name = "Trademarks"
+  url = "/trademarks.html"
+  weight = 2
+
+  [[main]]
+  parent = "legal"
+  name = "License FAQ"
+  url = "/license-faq.html"
+  weight = 3
+
+  [[main]]
+  parent = "legal"
+  name = "Artistic License 2.0"
+  url = "/artistic-license-20.html"
+  weight = 4
+
+  [[main]]
+  parent = "legal"
+  name = "Artistic Notes 2.0"
+  url = "/artistic-notes-20.html"
+  weight = 5
+
+  [[main]]
+  parent = "legal"
+  name = "Artistic License 1.0"
+  url = "/artistic-license-10.html"
+  weight = 6
+
+  [[main]]
+  parent = "legal"
+  name = "CPAN Licensing Guidelines"
+  url = "/cpan-licensing-guidelines.html"
+  weight = 7
+
+  [[main]]
+  parent = "legal"
+  name = "Contributor License Agreement"
+  url = "/contributor-license-agreement.html"
+  weight = 8
+
+  [[main]]
+  parent = "legal"
+  name = "Conflict of Interest Policy"
+  url = "/conflict-of-interest-policy.html"
+  weight = 9
+
+  [[main]]
+  parent = "legal"
+  name = "IRS Filings"
+  url = "/irs-filings.html"
+  weight = 10
+
+  [[main]]
+  name = "Charters"
+  weight = 11
+  identifier = "charters"
+  parent = "legal"
+  url = "/charters/"
+  hasChildren = true
+
+  [[main]]
+  parent = "charters"
+  name = "Marketing Committee"
+  url = "/marketing-committee.html"
+  weight = 1
+
+  [[main]]
+  parent = "charters"
+  name = "Grants Committee"
+  url = "/grants-committee.html"
+  weight = 2
+
+  [[main]]
+  parent = "charters"
+  name = "Community Advocacy Committee"
+  url = "/community-advocacy-committee.html"
+  weight = 3
+
+  [[main]]
+  parent = "charters"
+  name = "Bylaws"
+  url = "/bylaws.html"
+  weight = 4
+
+[[footer]]
+none = "none"
