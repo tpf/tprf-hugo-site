@@ -4,7 +4,7 @@ url: '/grants-committee1.html'
 ---
 
 The Grants Committee was formed in 2003 to oversee the
-allocation of grant funding withing the Perl Foundation.
+allocation of grant funding within the Perl Foundation.
 The individuals chosen to be committee members represent a
 wide range of positions in the Perl community, including
 programmers in charge of the development of Perl.

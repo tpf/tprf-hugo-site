@@ -125,7 +125,7 @@ Since then I have reached out to the rest of the
 community to be sure I was carrying the project forward
 in the best interests of all.
 
-### Cateogries: [Grants](grants.html)
+### Categories: [Grants](grants.html)
 
 Comments
 [Dave Rolsky](https://blog.urth.org/)
