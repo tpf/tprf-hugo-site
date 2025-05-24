@@ -1,7 +1,8 @@
 ---
-title: "Advisory board"
-url:   "/advisory_board.html"
+title: 'Advisory board'
+url: '/advisory_board.html'
 ---
+
 ### Important!
 
 This is a new
@@ -54,9 +55,9 @@ strictly by invitation only.
 
 Who is on the Advisory Board?
 
--   Allison Randal
--   Dan Wright
--   Nat Torkington
+- Allison Randal
+- Dan Wright
+- Nat Torkington
 
 How does one leave the Advisory Board?
 

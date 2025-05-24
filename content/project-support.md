@@ -1,7 +1,8 @@
 ---
-title: "Community Project Support"
-url:   "/project-support.html"
+title: 'Community Project Support'
+url: '/project-support.html'
 ---
+
 ## TPRF administrative support for Community Projects.
 
 Introduction
@@ -20,11 +21,11 @@ their own.
 
 ### Terminology
 
--   "Foundation" or "The Foundation" refers to Yet Another Society
-    (YAS), also doing business as The Perl Foundation (TPF), The Raku
-    Foundation (TRF) and The Perl and Raku Foundation (TPRF).
--   "Board" refers to the duly appointed Board of Directors of Yet
-    Another Society.
+- "Foundation" or "The Foundation" refers to Yet Another Society
+  (YAS), also doing business as The Perl Foundation (TPF), The Raku
+  Foundation (TRF) and The Perl and Raku Foundation (TPRF).
+- "Board" refers to the duly appointed Board of Directors of Yet
+  Another Society.
 
 ### What the Foundation will provide
 
@@ -168,5 +169,5 @@ fund. The process by which funds are authorized by the
 project are to be determined by each project
 independently.
 
--   Your project will be listed as supported by the Foundation on our website.
--   A donation link will be provided on our website for your fund.
+- Your project will be listed as supported by the Foundation on our website.
+- A donation link will be provided on our website for your fund.

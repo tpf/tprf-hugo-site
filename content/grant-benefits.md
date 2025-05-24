@@ -1,7 +1,8 @@
 ---
-title: "Grant Benefits"
-url:   "/grant-benefits.html"
+title: 'Grant Benefits'
+url: '/grant-benefits.html'
 ---
+
 Funding leading Perl developers and educators enables the
 Perl Foundation to efficiently pursue its mandate to
 advance the use and understanding of Perl in the wider
@@ -125,12 +126,12 @@ The purpose and goals of each grant are also individually
 negotiated with the recipient. These may include and
 combination of:
 
--   Development of specific software packages
--   Maintenance and enhancement of the Perl core code
--   Design or implementation work for the forthcoming Perl 6
--   Delivering keynotes, tutorials, and other presentations at national
-    and international conferences
--   Speaking at local Perl and Open Source user groups,
--   Participation in relevant on-line forums
--   Any other activity the committee deems beneficial to the wider Perl
-    community
+- Development of specific software packages
+- Maintenance and enhancement of the Perl core code
+- Design or implementation work for the forthcoming Perl 6
+- Delivering keynotes, tutorials, and other presentations at national
+  and international conferences
+- Speaking at local Perl and Open Source user groups,
+- Participation in relevant on-line forums
+- Any other activity the committee deems beneficial to the wider Perl
+  community

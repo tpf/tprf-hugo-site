@@ -1,10 +1,12 @@
 ---
-title: "TPF Bylaws"
-url:   "/bylaws.html"
+title: 'TPF Bylaws'
+url: '/bylaws.html'
 ---
+
 ### BYLAWS OF YET ANOTHER SOCIETY
 
 ### ARTICLE I
+
 OFFICES
 
 1.01 Principal Office. The principal office of the
@@ -15,12 +17,14 @@ establish other offices in or outside the state of
 Michigan.
 
 ### ARTICLE II
+
 MEMBERS
 
 There
 shall be no members.
 
 ### ARTICLE III
+
 BOARD
 
 3.01 General Powers. The business, property, and
@@ -92,6 +96,7 @@ Written consents shall be filed with the minutes of the
 Board's proceeding.
 
 ### ARTICLE IV
+
 COMMITTEES
 
 4.01
@@ -137,6 +142,7 @@ Written consents shall be filed with the minutes of the
 committee's proceedings.
 
 ### ARTICLE V
+
 OFFICERS
 
 5.01
@@ -218,6 +224,7 @@ perform all duties incident to the office and other duties
 assigned by the president or the board.
 
 ### ARTICLE VI
+
 CORPORATE DOCUMENT
 PROCEDURE
 
@@ -230,6 +237,7 @@ attorney-in-fact unless authorized by the board or by these
 bylaws.
 
 ### ARTICLE VII
+
 INDEMNIFICATION
 
 7.01 Nonderivative Actions. Subject to all of the
@@ -394,6 +402,7 @@ permitted the corporation to provide before any such
 change.
 
 ### ARTICLE VIII
+
 COMPENSATION
 
 When authorized by the board, a person shall be
@@ -403,12 +412,14 @@ independent contractor, except as prohibited by these
 bylaws.
 
 ### ARTICLE IX
+
 FISCAL YEAR
 
 The
 fiscal year of the corporation shall end on December 31.
 
 ### ARTICLE X
+
 AMENDMENTS
 
 The

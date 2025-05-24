@@ -1,8 +1,10 @@
 ---
-title: "Articles of Incorporation"
-url:   "/articles.html"
+title: 'Articles of Incorporation'
+url: '/articles.html'
 ---
+
 ARTICLES OF INCORPORATION OF YET ANOTHER SOCIETY
+
 ### ARTICLES OF INCORPORATION OF YET ANOTHER SOCIETY
 
 Pursuant to the provisions of the Michigan Nonprofit
@@ -54,8 +56,7 @@ the registered office is Kurtis DeMaagd.
 The name and address of the incorporator is:
 
 Kurtis
-DeMaagd, 170 College Avenue, Suite 230, Holland, Michigan,
-49423.
+DeMaagd, 170 College Avenue, Suite 230, Holland, Michigan, 49423.
 
 ### ARTICLE VI
 
@@ -126,19 +127,16 @@ this provision shall not eliminate or limit the liability of
 a director for any of the following:
 
 1. a breach
-of the director's duty of loyalty to the corporation;
-2.
-acts or omissions not in good faith or that involve
-intentional misconduct or a knowing violation of law;
-3.
-a violation of section 551(1) of the Act;
+   of the director's duty of loyalty to the corporation;
+2. acts or omissions not in good faith or that involve
+   intentional misconduct or a knowing violation of law;
+3. a violation of section 551(1) of the Act;
 4. a
-transaction from which the director derived an improper
-personal benefit;
+   transaction from which the director derived an improper
+   personal benefit;
 5. an act or omission occurring
-before the filing of these articles of incorporation; or
-6.
-an act or omission that is grossly negligent.
+   before the filing of these articles of incorporation; or
+6. an act or omission that is grossly negligent.
 
 The
 corporation assumes all liability to any person, other than
@@ -178,21 +176,19 @@ of a nondirector volunteer if all of the following
 conditions are met:
 
 1. The volunteer was acting
-or reasonably believed he or she was acting within the scope
-of his or her authority.
+   or reasonably believed he or she was acting within the scope
+   of his or her authority.
 2. The volunteer was acting in
-good faith.
+   good faith.
 3. The volunteer's conduct did not amount
-to gross negligence or willful and wanton misconduct.
-4.
-The volunteer's conduct was not an intentional tort.
-5.
-The volunteer's conduct was not a tort arising out of the
-ownership, maintenance, or use of a motor vehicle for which
-tort liability may be imposed as provided in section 3135 of
-the Insurance Code of 1956, Act No. 218 of the Public Acts
-of 1956, being section 500.3135 of the Michigan Compiled
-Laws.
+   to gross negligence or willful and wanton misconduct.
+4. The volunteer's conduct was not an intentional tort.
+5. The volunteer's conduct was not a tort arising out of the
+   ownership, maintenance, or use of a motor vehicle for which
+   tort liability may be imposed as provided in section 3135 of
+   the Insurance Code of 1956, Act No. 218 of the Public Acts
+   of 1956, being section 500.3135 of the Michigan Compiled
+   Laws.
 
 These Articles of Incorporation are signed
 by the incorporator on September 5, 2000.

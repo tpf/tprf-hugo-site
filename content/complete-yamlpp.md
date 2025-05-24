@@ -1,7 +1,8 @@
 ---
-title: "Complete YAML::PP"
-url:   "/complete-yamlpp.html"
+title: 'Complete YAML::PP'
+url: '/complete-yamlpp.html'
 ---
+
 The Grants Committee has received the following grant
 proposal for the July/August round. Before the Committee
 members vote, we would like to solicit feedback from the

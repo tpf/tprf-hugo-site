@@ -1,7 +1,8 @@
 ---
-title: "Test2 Manual: Report #2"
-url:   "/test2-manual-report-2.html"
+title: 'Test2 Manual: Report #2'
+url: '/test2-manual-report-2.html'
 ---
+
 Test2 Manual: Report #2
 
 By [Alberto Simoes](http://blogs.perl.org/users/alberto_simoes/)
@@ -17,4 +18,5 @@ branches, as neither gives a complete view of Chad plans
 in isolation.
 
 ### Categories:
+
 [Grants](grants.html)

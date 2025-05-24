@@ -1,7 +1,8 @@
 ---
-title: "The Board"
-url:   "/the-board.html"
+title: 'The Board'
+url: '/the-board.html'
 ---
+
 The board of directors is the decision making body of
 the Foundation. It meets once per month and convenes for
 additional meetings when required. The board also engages
@@ -11,7 +12,7 @@ peer support and offer assistance and guidance.
 The board is self-electing, and usually draws its
 candidates from active volunteers. It is led by the
 President who is appointed by the board and is typically
-an existing board member.  The Treasurer manages
+an existing board member. The Treasurer manages
 financial operations.
 
 Board members are asked to serve a two-year

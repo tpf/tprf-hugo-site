@@ -1,7 +1,8 @@
 ---
-title: "Our Donors"
-url:   "/our-donors.html"
+title: 'Our Donors'
+url: '/our-donors.html'
 ---
+
 The Perl Foundation extends our sincere thanks to all
 our sponsors, large and small. If you would like to
 make a donation, [visit our donation page](donate.html).
@@ -12,6 +13,7 @@ the community. In addition to supporting Perl with
 donations, these companies are great options for
 programmers looking for good jobs at companies that use
 Perl extensively.
+
 ### Diamond Level
 
 ### Sponsors

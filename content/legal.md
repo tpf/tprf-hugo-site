@@ -1,7 +1,8 @@
 ---
-title: "Legal"
-url:   "/legal.html"
+title: 'Legal'
+url: '/legal.html'
 ---
+
 The Perl Foundation is a legally registered DBA (Doing
 Business As) name of Yet Another Society. The foundation
 incorporated as Yet Another Society, so that's the name
@@ -90,12 +91,12 @@ invited to step up.
 
 TPF and Perl
 
--   [Contributor License Agreement](contributor-license-agreement.html)
--   [License FAQ](license-faq.html)
--   [Artistic License 2.0](artistic-license-20.html)
--   [Artistic Notes 2.0](artistic-notes-20.html)
--   [Artistic License 1.0](artistic-license-10.html)
--   [CPAN Licensing Guideleines](cpan-licensing-guidelines.html)
+- [Contributor License Agreement](contributor-license-agreement.html)
+- [License FAQ](license-faq.html)
+- [Artistic License 2.0](artistic-license-20.html)
+- [Artistic Notes 2.0](artistic-notes-20.html)
+- [Artistic License 1.0](artistic-license-10.html)
+- [CPAN Licensing Guideleines](cpan-licensing-guidelines.html)
 
 Our profound thanks to [Roberta Cairney](http://www.cairneylawoffices.com/), John Sullivan, and [Charles E. Gotlieb](http://www.i-plaw.com/) for their work in drafting and refining the
 Artistic License 2.0, as well as TPF's contributor license
@@ -103,11 +104,11 @@ agreement and trademark policies.
 
 Establishing the Foundation
 
--   [Articles of Incorporation](articles.html)
--   [Bylaws](bylaws.html)
--   First Meeting of
-    Incorporator: [first-incorporator.html](http://www.perlfoundation.org/attachment/legal/first-incorporator.html)
--   First Meeting of Board of
-    Directors: [first-board.html](http://www.perlfoundation.org/attachment/legal/first-board.html)
--   [Conflict of Interest
-    Policy](http://www.perlfoundation.org/conflict_of_interest_policy)
+- [Articles of Incorporation](articles.html)
+- [Bylaws](bylaws.html)
+- First Meeting of
+  Incorporator: [first-incorporator.html](http://www.perlfoundation.org/attachment/legal/first-incorporator.html)
+- First Meeting of Board of
+  Directors: [first-board.html](http://www.perlfoundation.org/attachment/legal/first-board.html)
+- [Conflict of Interest
+  Policy](http://www.perlfoundation.org/conflict_of_interest_policy)

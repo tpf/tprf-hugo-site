@@ -1,17 +1,18 @@
 ---
-title: "How to Write a Proposal"
-url:   "/how-to-write-a-proposal.html"
+title: 'How to Write a Proposal'
+url: '/how-to-write-a-proposal.html'
 ---
+
 Your proposal should include:
 
--   Project Title and Synopsis
--   Your name
--   A discussion on the benefits of the project to the Perl Community
--   A list of deliverables
--   Project details and a proposed schedule
--   Your biography
--   The requested amount for the Project Grant, preferably in US
-    dollars.
+- Project Title and Synopsis
+- Your name
+- A discussion on the benefits of the project to the Perl Community
+- A list of deliverables
+- Project details and a proposed schedule
+- Your biography
+- The requested amount for the Project Grant, preferably in US
+  dollars.
 
 Submit your proposal via this [google form](https://docs.google.com/forms/d/16seYhrMjz8rgsau9e1MtwYY0fHB81mVKm-0SD6Ynty0/viewform).
 

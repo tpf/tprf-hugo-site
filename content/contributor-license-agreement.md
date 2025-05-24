@@ -1,7 +1,8 @@
 ---
-title: "Contributor License Agreement"
-url:   "/contributor-license-agreement.html"
+title: 'Contributor License Agreement'
+url: '/contributor-license-agreement.html'
 ---
+
 This non-exclusive license is designed to serve the Perl
 community, including contributors to projects of the Perl
 Foundation ("Foundation"), the open source projects and
@@ -30,15 +31,23 @@ Please read this agreement carefully before signing it, and
 keep a copy for your records.
 
 Full name:
-__________________________________________________________
+
+---
+
 E-Mail:
-_____________________________________________________________
+
+---
+
 Mailing
 Address:
-______________________________________________________
-___________________________________________________________________
-_______________________________________
-Country: ____________________
+
+---
+
+---
+
+---
+
+Country: ********\_\_\_\_********
 
 1. Definitions.
 
@@ -75,94 +84,90 @@ controls, is controlled by, or under common control with,
 the party signing this CLA.
 
 2. Acceptance. You
-accept and agree to the terms and conditions of this CLA for
-your present and future Contributions, and for your
-Contributions made prior to signing this CLA. Your prior
-contributions subject to this CLA include, but are not
-limited to, the Contributions listed on Schedule 1.
+   accept and agree to the terms and conditions of this CLA for
+   your present and future Contributions, and for your
+   Contributions made prior to signing this CLA. Your prior
+   contributions subject to this CLA include, but are not
+   limited to, the Contributions listed on Schedule 1.
 
-3.
-Foundation Obligations. In return for the license granted
-under this CLA, the Foundation will use your Contributions
-only in ways that are consistent with the open source nature
-of the Work. Except for the license granted under this CLA,
-you reserve all rights in your Contributions.
+3. Foundation Obligations. In return for the license granted
+   under this CLA, the Foundation will use your Contributions
+   only in ways that are consistent with the open source nature
+   of the Work. Except for the license granted under this CLA,
+   you reserve all rights in your Contributions.
 
-4.
-License.
+4. License.
 
-4.1 Subject to this CLA, you grant to
-the Foundation, and to the Users, a perpetual, worldwide,
-non-exclusive, free-of-charge, royalty-free, irrevocable
-license under all intellectual property rights (excluding
-patent and trademark, but including copyright) to reproduce,
-prepare derivative works of, publicly display, publicly
-perform, sublicense, and distribute your Contributions, and
-derivative works.
+   4.1 Subject to this CLA, you grant to
+   the Foundation, and to the Users, a perpetual, worldwide,
+   non-exclusive, free-of-charge, royalty-free, irrevocable
+   license under all intellectual property rights (excluding
+   patent and trademark, but including copyright) to reproduce,
+   prepare derivative works of, publicly display, publicly
+   perform, sublicense, and distribute your Contributions, and
+   derivative works.
 
-4.2 You also grant to the
-Foundation, and to the Users, a perpetual, worldwide,
-non-exclusive, free-of-charge, royalty-free, irrevocable
-(except as specified in this section) patent license to
-make, have made, use, offer to sell, sell, import, and
-otherwise transfer the Contribution. This license applies
-only to those patent claims licensable by you (including
-without limitation any patent claims you may acquire in the
-future) that are necessarily infringed by your
-Contribution(s) alone, or by the combination of your
-Contribution(s) with the Work or with the subsequent
-contributions of anyone else. If any party institutes patent
-litigation against you or any other party (including a
-cross-claim or counterclaim in a lawsuit) alleging that your
-Contribution, or the Work to which you have contributed,
-constitutes direct or contributory patent infringement, then
-any patent licenses granted to that party based on the
-rights you have granted to the Foundation under this CLA
-shall terminate as of the date such litigation is filed.
+   4.2 You also grant to the
+   Foundation, and to the Users, a perpetual, worldwide,
+   non-exclusive, free-of-charge, royalty-free, irrevocable
+   (except as specified in this section) patent license to
+   make, have made, use, offer to sell, sell, import, and
+   otherwise transfer the Contribution. This license applies
+   only to those patent claims licensable by you (including
+   without limitation any patent claims you may acquire in the
+   future) that are necessarily infringed by your
+   Contribution(s) alone, or by the combination of your
+   Contribution(s) with the Work or with the subsequent
+   contributions of anyone else. If any party institutes patent
+   litigation against you or any other party (including a
+   cross-claim or counterclaim in a lawsuit) alleging that your
+   Contribution, or the Work to which you have contributed,
+   constitutes direct or contributory patent infringement, then
+   any patent licenses granted to that party based on the
+   rights you have granted to the Foundation under this CLA
+   shall terminate as of the date such litigation is filed.
 
-5.
-Representations.
+5. Representations.
 
-5.1 You represent that you are
-legally entitled to grant this license. If your employer(s)
-has rights to intellectual property created by you which
-include your Contributions, you represent that you have
-received permission to make Contributions on behalf of that
-employer, or that your employer has waived such rights for
-your Contributions to the Foundation, or that your employer
-has signed a separate CLA with the Foundation. If you have
-employees, you also represent that any employee making a
-Contribution on your behalf is fully authorized to do so,
-and that you have sufficient rights in the employee's
-Contribution to grant this license.
+   5.1 You represent that you are
+   legally entitled to grant this license. If your employer(s)
+   has rights to intellectual property created by you which
+   include your Contributions, you represent that you have
+   received permission to make Contributions on behalf of that
+   employer, or that your employer has waived such rights for
+   your Contributions to the Foundation, or that your employer
+   has signed a separate CLA with the Foundation. If you have
+   employees, you also represent that any employee making a
+   Contribution on your behalf is fully authorized to do so,
+   and that you have sufficient rights in the employee's
+   Contribution to grant this license.
 
-5.2 You also
-represent that each of your Contributions is your original
-creation, and that to the best of your knowledge, includes
-complete details of any third-party license or other
-restriction, for instance, related patents and trademarks
-associated with it.
+   5.2 You also
+   represent that each of your Contributions is your original
+   creation, and that to the best of your knowledge, includes
+   complete details of any third-party license or other
+   restriction, for instance, related patents and trademarks
+   associated with it.
 
-5.3 If you become aware of
-any facts or circumstances that would make your
-representation under this CLA inaccurate in any respect, you
-will notify the Foundation promptly.
+   5.3 If you become aware of
+   any facts or circumstances that would make your
+   representation under this CLA inaccurate in any respect, you
+   will notify the Foundation promptly.
 
 6. Support.
-You are not expected to provide support for your
-Contributions, unless you want to do so. Whether or not you
-charge a fee for support is up to you.
+   You are not expected to provide support for your
+   Contributions, unless you want to do so. Whether or not you
+   charge a fee for support is up to you.
 
-7.
-Warranty Disclaimer. To the extent permitted by law, you
-provide your Contributions on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR
-IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR
-CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR
-FITNESS FOR A PARTICULAR PURPOSE.
+7. Warranty Disclaimer. To the extent permitted by law, you
+   provide your Contributions on an "AS IS" BASIS, WITHOUT
+   WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR
+   IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR
+   CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR
+   FITNESS FOR A PARTICULAR PURPOSE.
 
 Signature:
-________________________________ Date: ______________
+**************\_\_\_\_************** Date: ******\_\_******
 
 Schedule
 1 Prior Contributions

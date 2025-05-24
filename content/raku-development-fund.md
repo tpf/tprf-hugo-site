@@ -1,7 +1,8 @@
 ---
-title: "Raku Development Fund"
-url:   "/raku-development-fund.html"
+title: 'Raku Development Fund'
+url: '/raku-development-fund.html'
 ---
+
 At the start of February 2015, during FOSDEM, Larry
 Wall announced that the Perl 6 team intends to declare a
 6.0 language (defined by a conformance test suite) along

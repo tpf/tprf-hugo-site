@@ -1,7 +1,8 @@
 ---
-title: "Trademarks"
-url:   "/trademarks.html"
+title: 'Trademarks'
+url: '/trademarks.html'
 ---
+
 The work of The Perl & Raku Foundation includes making sure that Perl & Raku
 code and documentation are free and open for all to use, and remain free and
 open for all to use. One of the many ways we do this is through Perl & Raku

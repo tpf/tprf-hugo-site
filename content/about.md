@@ -1,7 +1,8 @@
 ---
-title: "About The Perl and Raku Foundation"
-url:   "/about.html"
+title: 'About The Perl and Raku Foundation'
+url: '/about.html'
 ---
+
 The Perl Foundation is dedicated to the advancement of the Perl and Raku
 programming language. We seek to do this through open discussion,
 collaboration, design, and code.

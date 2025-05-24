@@ -1,7 +1,8 @@
 ---
-title: "Perl Core Development Fund"
-url:   "/perl-core-development-fund.html"
+title: 'Perl Core Development Fund'
+url: '/perl-core-development-fund.html'
 ---
+
 In 2008 a generous contribution from Booking.com enabled
 The Perl Foundation to provide a series of grants, awarded
 to Dave Mitchell, targeted at improving the Perl 5 core.

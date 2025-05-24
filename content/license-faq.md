@@ -1,7 +1,8 @@
 ---
-title: "License FAQ"
-url:   "/license-faq.html"
+title: 'License FAQ'
+url: '/license-faq.html'
 ---
+
 ### Why has TPF adopted a CLA process?
 
 We
@@ -31,6 +32,7 @@ to build closed proprietary technologies, are now being
 re-purposed to keep open source code freely available.
 
 ### Do companies who want to contribute material created by
+
 their employees need to use a special CLA form?
 
 No. However, in addition to signing the CLA on its
@@ -45,6 +47,7 @@ on employer ownership of employees' work product vary from
 jurisdiction to jurisdiction.
 
 ### As an employee, do I need to have my employer sign a CLA
+
 for my contribution?
 
 No. However, if your employer does own intellectual
@@ -58,6 +61,7 @@ employer sign a CLA, or getting permission, or a waiver of
 the employer's rights, in order to make the contribution.
 
 ### Do I have to list any, or all, of my prior contributions?
+
 That could be impossible.
 
 You are not required to list any of your prior
@@ -67,6 +71,7 @@ key prior contributions. You are also free to specify them
 on the schedule on your own, if you would like to do so.
 
 ### Why are patents treated separately from other
+
 intellectual property?
 
 Patents are treated separately because the legal

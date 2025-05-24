@@ -1,7 +1,8 @@
 ---
-title: "Artistic License 2.0"
-url:   "/artistic-license-20.html"
+title: 'Artistic License 2.0'
+url: '/artistic-license-20.html'
 ---
+
 Copyright (c) 2000-2006, The Perl Foundation.
 Everyone
 is permitted to copy and distribute verbatim copies of this
@@ -79,6 +80,7 @@ from mechanical transformation or translation of the Source
 form.
 
 ### Permission for Use and Modification Without
+
 Distribution
 
 (1) You are permitted to use the Standard
@@ -87,6 +89,7 @@ without restriction, provided that you do not Distribute the
 Modified Version.
 
 ### Permissions for Redistribution of the Standard
+
 Version
 
 (2) You may Distribute verbatim copies of the
@@ -105,6 +108,7 @@ Version, and as such will be subject to the Original
 License.
 
 ### Distribution of Modified Versions of the Package as
+
 Source
 
 (4) You may Distribute your Modified Version as
@@ -148,6 +152,7 @@ available in that license fees are prohibited
 but Distributor Fees are allowed.
 
 ### Distribution of Compiled Forms of the Standard Version or
+
 Modified Versions without the Source
 
 (5) You may Distribute Compiled forms of the
@@ -186,6 +191,7 @@ Distribute the result without restriction, provided the
 result does not expose a direct interface to the Package.
 
 ### Items That are Not Considered Part of a Modified
+
 Version
 (9) Works (including, but not limited to, modules and
 scripts) that merely extend or make use of the Package, do
@@ -195,6 +201,7 @@ the Package itself, and are not subject to the terms of this
 license.
 
 ### General Provisions
+
 (10) Any use, modification, and distribution of the
 Standard or Modified Versions is governed by this Artistic
 License. By using, modifying or distributing the Package,

@@ -1,5 +1,5 @@
 ---
-title: "Committee Charters"
+title: 'Committee Charters'
 ---
 
 - [Marketing Committee Charter](/marketing-committee.html)

@@ -1,8 +1,10 @@
 ---
-title: "Community Advocacy Committee"
-url:   "/community-advocacy-committee.html"
+title: 'Community Advocacy Committee'
+url: '/community-advocacy-committee.html'
 ---
+
 Community Advocacy Committee Charter
+
 ### 1. Purpose
 
 The Community Advocacy
@@ -11,11 +13,12 @@ related to community building, health, and sustainability
 issued under The Perl & Raku
 Foundation. It shall be granted all powers granted to the
 Board of Directors relevant to these operations except:
--   Those that are specifically denied under the Yet Another Society
-    Bylaws.
--   The sale or purchase of assets worth greater than \$500.
--   Borrowing money or assuming any long term liabilities.
--   Entering into any contract or agreement worth more than \$5,000.
+
+- Those that are specifically denied under the Yet Another Society
+  Bylaws.
+- The sale or purchase of assets worth greater than \$500.
+- Borrowing money or assuming any long term liabilities.
+- Entering into any contract or agreement worth more than \$5,000.
 
 The Committee shall be restricted to only those activities
 that are consistent with Yet Another Society's tax exempt
@@ -95,6 +98,7 @@ report of all recent operations at least once every three
 months.
 
 ### 6. Duration
+
 The
 Committee shall serve until dissolved by the Board of
 Directors.

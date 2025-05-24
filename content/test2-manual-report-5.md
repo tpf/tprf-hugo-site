@@ -1,7 +1,8 @@
 ---
-title: "Test2 Manual: Report #5"
-url:   "/test2-manual-report-5.html"
+title: 'Test2 Manual: Report #5'
+url: '/test2-manual-report-5.html'
 ---
+
 Test2 Manual: Report #5
 
 By [Alberto Simoes](http://blogs.perl.org/users/alberto_simoes/)
@@ -12,11 +13,12 @@ Chad Granun reports on
 his work on the Test2 Manual grant. The last month was
 devoted to:
 
--   How to list the test tools in the modules dependencies;
--   Tutorial for TODO tests;
--   Tutorial for advanced test planning.
+- How to list the test tools in the modules dependencies;
+- Tutorial for TODO tests;
+- Tutorial for advanced test planning.
 
 ### Categories:
+
 [Grants](grants.html)
 
 We Appreciate Your Support

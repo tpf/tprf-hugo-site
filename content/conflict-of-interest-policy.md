@@ -1,7 +1,8 @@
 ---
-title: "Conflict of Interest Policy"
-url:   "/conflict-of-interest-policy.html"
+title: 'Conflict of Interest Policy'
+url: '/conflict-of-interest-policy.html'
 ---
+
 The purpose of this policy is to protect The Perl
 Foundation's interests when it is considering entering into
 a transaction or arrangement that might benefit the private

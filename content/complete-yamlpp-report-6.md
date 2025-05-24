@@ -1,7 +1,8 @@
 ---
-title: "Complete YAML::PP Report #6"
-url:   "/complete-yamlpp-report-6.html"
+title: 'Complete YAML::PP Report #6'
+url: '/complete-yamlpp-report-6.html'
 ---
+
 Complete YAML::PP Report #6
 
 By Mark A Jensen

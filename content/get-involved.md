@@ -1,7 +1,8 @@
 ---
-title: "Get Involved"
-url:   "/get-involved.html"
+title: 'Get Involved'
+url: '/get-involved.html'
 ---
+
 ## Want to Help?
 
 The Perl & Raku Foundation exists to promote and
@@ -9,17 +10,17 @@ support community efforts around the Perl and Raku
 programming languages. We encourage you to contribute
 by:
 
--   Joining your local [Perl Mongers](http://www.pm.org/) group
--   Visit [PerlMonks](http://perlmonks.org/)
--   Attend a [YAPC](http://www.yapc.org/) in your region of the world
--   There are many other ways you can contribute to Perl and
-    Raku including:
-    -   Contribute and maintain a module on the CPAN
-    -   Participate in the development, maintenance and documentation of
-        Perl 5 and Raku.
-    -   Another important way you can contribute to Perl, both as a
-        language and as a community, is to make a tax-deductible
-        [donation to the Perl Foundation](donate.html).
+- Joining your local [Perl Mongers](http://www.pm.org/) group
+- Visit [PerlMonks](http://perlmonks.org/)
+- Attend a [YAPC](http://www.yapc.org/) in your region of the world
+- There are many other ways you can contribute to Perl and
+  Raku including:
+  - Contribute and maintain a module on the CPAN
+  - Participate in the development, maintenance and documentation of
+    Perl 5 and Raku.
+  - Another important way you can contribute to Perl, both as a
+    language and as a community, is to make a tax-deductible
+    [donation to the Perl Foundation](donate.html).
 
 Board candidacy
 
@@ -37,13 +38,13 @@ a member of the board or email
 with the following information:
 
 - Bio
--    If you purport to represent a
-community, that community should validate your
-application
--    Your reasons for
-wishing to become a member of the Board?
+- If you purport to represent a
+  community, that community should validate your
+  application
+- Your reasons for
+  wishing to become a member of the Board?
 - What goals you would like to see the Foundation pursue over
-the next 12-24 months?
+  the next 12-24 months?
 
 This information will be
 posted publicly.

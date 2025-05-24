@@ -1,7 +1,8 @@
 ---
-title: "Payments"
-url:   "/payments.html"
+title: 'Payments'
+url: '/payments.html'
 ---
+
 Donations / Accounts Receivable
 
 Interested in making a donation or payment to The Perl
@@ -51,10 +52,11 @@ UNITED STATES
 
 If you are requesting a wire transfer, please provide all of
 the following information:
--   Your name and address \-- This must match the information on the
-    account receiving the money.
--   Name and address of your bank
--   Either an IBAN #, or a Swift code with routing and account numbers.
+
+- Your name and address \-- This must match the information on the
+  account receiving the money.
+- Name and address of your bank
+- Either an IBAN #, or a Swift code with routing and account numbers.
 
 Certain tax information may be required for large transfers
 or payments.

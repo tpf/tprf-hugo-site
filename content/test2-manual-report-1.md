@@ -1,7 +1,8 @@
 ---
-title: "Test2 Manual: Report #1"
-url:   "/test2-manual-report-1.html"
+title: 'Test2 Manual: Report #1'
+url: '/test2-manual-report-1.html'
 ---
+
 Test2 Manual: Report #1By
 
 [Alberto Simoes](http://blogs.perl.org/users/alberto_simoes/)

@@ -1,7 +1,8 @@
 ---
-title: "Grants"
-url:   "/grants.html"
+title: 'Grants'
+url: '/grants.html'
 ---
+
 Funding projects within the greater Perl and Raku
 communities enables developers, educators, and The Perl
 Foundation to advance the use and understanding of Perl and
