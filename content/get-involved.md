@@ -34,8 +34,7 @@ members, and must be seconded.
 If you would like
 to propose yourself or someone else for nomination, contact
 a member of the board or email
-[[email protected]](cdn-cgi/l/email-protection.html)
-with the following information:
+[board@perlfoundation.org](mailto:board@perlfoundation.org) with the following information:
 
 - Bio
 - If you purport to represent a
@@ -82,5 +81,4 @@ experience
 Any questions and further
 information
 If you have any questions please get in
-touch with
-[[email protected]](cdn-cgi/l/email-protection.html)
+touch with [makoto@perlfoundation.org](mailto:makoto@perlfoundation.org)

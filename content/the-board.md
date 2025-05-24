@@ -78,7 +78,7 @@ Held role since
 2019
 Email
 
-[[email protected]](cdn-cgi/l/email-protection.html#6b1b190e18020f0e051f2b1b0e19070d041e050f0a1f0204054504190c)
+[president@perlfoundation.org](mailto:president@perlfoundation.org)
 
 [![Picture](/images/uploads/1/0/6/6/106663517/published/stuart.png%3F1680035988)]
 
@@ -96,11 +96,11 @@ role since
 2020
 Email
 
-[[email protected]](cdn-cgi/l/email-protection.html#4c383e292d3f393e293e0c3c293e202a233922282d3825232262233e2b)
+[treasurer@perlfoundation.org](mailto:treasurer@perlfoundation.org)
 
 [![Picture](/images/uploads/1/0/6/6/106663517/krawczyk23bw_orig.jpg)]
 
-Makoto Nozarki, Secretary
+Makoto Nozaki, Secretary
 
 Makoto started volunteering at The Perl
 Foundation in 2010. He later held the Grants
@@ -115,7 +115,7 @@ role since
 2017
 Email
 
-[[email protected]](cdn-cgi/l/email-protection.html#7e131f15110a113e0e1b0c1218110b101a1f0a17111050110c19)
+[makoto@perlfoundation.org](mailto:makoto@perlfoundation.org)
 
 [![Picture](/images/uploads/1/0/6/6/106663517/published/makoto.jpg%3F1680035961)]
 
@@ -135,7 +135,8 @@ Held role since
 
 2022
 Email
-todd[@perlfoundation.org](cdn-cgi/l/email-protection.html#bfdbdec9da91cdd0d3ccd4c6ffcfdacdd3d9d0cad1dbdecbd6d0d191d0cdd8)
+
+[todd@perlfoundation.org](mailto:todd@perlfoundation.org)
 
 [![Picture](/images/uploads/1/0/6/6/106663517/todd_orig.png)]Daniel Sockwell
 

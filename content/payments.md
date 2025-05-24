@@ -10,7 +10,7 @@ Foundation? The most simple way to do so is by
 [credit card online](https://www.z2systems.com/np/clients/perlfoundation/donation.jsp).
 
 We also accept PayPal. Please direct your
-payment to [[email protected]](cdn-cgi/l/email-protection.html#7e1c1712121710193e071f0e1d50110c19).
+payment to [billing@yapc.org](mailto:billing@yapc.org).
 
 Check payments should be made out to:
 
@@ -21,27 +21,11 @@ YET ANOTHER SOCIETY
 91723
 UNITED STATES
 
-Wire transfers are also available for overseas
-transactions
-
-Account name: Yet Another Society
-Account
-number: (Contact [[email protected]](cdn-cgi/l/email-protection.html#095d7b6c687a7c7b6c7b49596c7b654f667c676d687d60666727467b6e))
-Routing number: 044000024
-Swift: HUNTUS33
-Bank
-name: Huntington Bank
-Bank address :
-
-70 College Ave
-Holland MI
-49423
-United States of America
-
 Bills / Reimbursements / Accounts Payable
 
-Please e-mail all requests for payment to [[email protected]](cdn-cgi/l/email-protection.html#93e3f2eafef6fde7e0d3e3f6e1fff5fce6fdf7f2e7fafcfdbdfce1f4)
-Bills or invoices may also be mailed to:
+Please e-mail all requests for payment to
+[payments@perlfoundation.org](mailto:payments@perlfoundation.org) Bills or
+invoices may also be mailed to:
 
 YET ANOTHER SOCIETY
 (DBA) THE PERL AND RAKU FOUNDATION

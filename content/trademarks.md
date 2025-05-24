@@ -54,7 +54,7 @@ the organizations themselves, and doesn't extend to
 individual members.
 
 Representatives of the
-organizations should contact us at [[email protected]](cdn-cgi/l/email-protection.html#f084829194959d91829bb08095829c969f859e949184999f9ede9f8297) to obtain high-resolution versions of the Perl
+organizations should contact us at [trademark@perlfoundation.org](mailto:trademark@perlfoundation.org) to obtain high-resolution versions of the Perl
 logo, and answers to any questions they have about use of
 the logo.
 
@@ -67,7 +67,7 @@ the logo.
 The affiliated YAPC conferences around the world may use
 the Perl logo on their websites or materials promoting the
 conferences with prior written permission from TPF.
-Contact [[email protected]](cdn-cgi/l/email-protection.html#2551574441404844574e6555405749434a504b4144514c4a4b0b4a5742) for permission, and once permission is granted, for
+Contact [trademark@perlfoundation.org](mailto:trademark@perlfoundation.org) for permission, and once permission is granted, for
 high-resolution versions of the Perl logo.
 
 ![Picture](/images/uploads/1/0/6/6/106663517/perl-logo-32x104_1.png)
@@ -77,12 +77,12 @@ high-resolution versions of the Perl logo.
 Licensed redistributors of Perl code are permitted by
 their licenses to use the Perl logo in connection with
 their distribution services, on product packaging, and in
-promotional materials. Contact [[email protected]](cdn-cgi/l/email-protection.html#0e7a7c6f6a6b636f7c654e7e6b7c6268617b606a6f7a67616020617c69) for more information on becoming a licensed Perl
+promotional materials. Contact [trademark@perlfoundation.org](mailto:trademark@perlfoundation.org) for more information on becoming a licensed Perl
 redistributor.
 
 ## Other Uses
 
-For any other uses, contact us at [[email protected]](cdn-cgi/l/email-protection.html#7b0f091a1f1e161a09103b0b1e09171d140e151f1a0f1214155514091c) to discuss your proposal.
+For any other uses, contact us at [trademark@perlfoundation.org](mailto:trademark@perlfoundation.org) to discuss your proposal.
 
 ## Use Guidelines
 
@@ -132,7 +132,7 @@ determined based not only on making a comparison of the
 marks side-by-side, but also on making a comparison of the
 contexts in which they are actually used. Thus, it's easy to
 imagine independent onions that would be fine, and
-independent onions that might not be. Contact us at [[email protected]](cdn-cgi/l/email-protection.html#dbafa9babfbeb6baa9b09babbea9b7bdb4aeb5bfbaafb2b4b5f5b4a9bc) if you have any questions, or would like us to
+independent onions that might not be. Contact us at [trademark@perlfoundation.org](mailto:trademark@perlfoundation.org) if you have any questions, or would like us to
 evaluate a particular logo or usage to see if it would be an
 infringement.
 

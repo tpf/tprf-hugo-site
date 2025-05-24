@@ -12,7 +12,7 @@ There are many ways you can donate to The Perl Foundation:
   Another Society, d/b/a The Perl Foundation, 340 S Lemon Ave
   #6055, Walnut, CA 91789
 - Wire Transfer -
-  contact [\[email protected\]](cdn-cgi/l/email-protection.html#baeec8dfdbc9cfc8dfc8faeadfc8d6fcd5cfd4dedbced3d5d494f5c8dd) for
+  contact [treasurer@perlfoundation.org](mailto:treasurer@perlfoundation.org) for
   assistance.
 - [Employer pay check
   deductions](https://causes.benevity.org/causes/840-383536536) - If
