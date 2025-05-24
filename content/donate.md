@@ -31,14 +31,9 @@ There are many ways you can donate to The Perl Foundation:
 
 contact [treasurer@perlfoundation.org](mailto:treasurer@perlfoundation.org).
 
-If any members of the Perl or Raku communities wish to
-ask their employers or other associates if they would be
-willing to donate to TPF, please share our Prospectus
-2022:
-
-[![Picture](/images/uploads/1/0/6/6/106663517/prospectus-cover-page_orig.jpg)](/images/uploads/1/0/6/6/106663517/perl_raku_prospectus_final_interactive_v2.pdf)
-
-[Download File](/images/uploads/1/0/6/6/106663517/perl_raku_prospectus_final_interactive_v2.pdf)
+If any members of the Perl or Raku communities wish to ask their employers or
+other associates if they would be willing to donate to TPF, please share [our
+prospectus](https://drive.google.com/file/d/1pQJfIW0u-4gKw1o-f18GyyPdT3YlwrUv/view)
 
 Perl is part of the technology stack running many of
 today’s businesses. Our donors and sponsors use Perl and

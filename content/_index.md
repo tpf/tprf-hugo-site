@@ -28,10 +28,7 @@ through open discussion, collaboration, design, and code.
 
 Latest News
 
-Funding Perl and Raku development - check out the brand
-new prospectus
-
-[![Picture](/images/uploads/1/0/6/6/106663517/untitled-design-1_orig.jpg)](https://drive.google.com/file/d/1pQJfIW0u-4gKw1o-f18GyyPdT3YlwrUv/view?usp=sharing)
+Funding Perl and Raku development - check out [our prospectus](https://drive.google.com/file/d/1pQJfIW0u-4gKw1o-f18GyyPdT3YlwrUv/view)
 
 The Perl Foundation accepts donations from organizations
 that depend on Perl or Raku, and from individuals who love
