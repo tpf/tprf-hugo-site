@@ -15,47 +15,33 @@ through open discussion, collaboration, design, and code.
 
 <img src="/webpros.svg" alt="WebPros" title="WebPros" width="400">
 
-## Get Started
+## Funding Perl and Raku development
 
-- [Perl](https://perl.org/get.html)
-- [Raku](https://www.raku.org/)
-
-- [Donate](https://www.z2systems.com/np/clients/perlfoundation/donation.jsp)
-
-Latest News
-
-Funding Perl and Raku development - check out [our prospectus](https://drive.google.com/file/d/1pQJfIW0u-4gKw1o-f18GyyPdT3YlwrUv/view)
-
-The Perl Foundation accepts donations from organizations
-that depend on Perl or Raku, and from individuals who love
-programming with the Perl or Raku languages. Our desire
-is to build a strong, healthy and sustainable language
+The Perl Foundation accepts donations from organizations that depend on Perl or
+Raku, and from individuals who love programming with the Perl or Raku
+languages. Our desire is to build a strong, healthy and sustainable language
 ecosystem and community.
 
-If you use Perl or Raku
-to support your business, or as a hobby, your donation will
-help fund projects and events that support continued
-development.
+If you use Perl or Raku to support your business, or as a hobby, your donation
+will help fund projects and events that support continued development. Check out [our
+prospectus](https://drive.google.com/file/d/1pQJfIW0u-4gKw1o-f18GyyPdT3YlwrUv/view).
 
-[Donate](donate.html)
 
-Grants
+## Donate
 
-Our grant programs help fund development of open source
-projects to benefit Perl, Raku and the broader Community.
-These grants are funded by donations and help support open
-source developers.
+Your generous donations help to fund TPF grant programs. Thinking of [becoming
+a donor](donate.html)?
 
-[TPF Grants](grants.html)
+## TPF Grants
 
-Events
+Our [grant programs](grants.html) help fund development of open source projects to benefit
+Perl, Raku and the broader Community. These grants are funded by donations and
+help support open source developers.
 
-Open source development is driven by in-person events where
-developers share ideas, code, and have fun.
+## Events
 
-The
-Foundation helps to sponsor many events, worldwide, each
-year. Take a look at the schedule and join us at an event
-soon.
+Open source development is driven by in-person events where developers share
+ideas, code, and have fun.
 
-[TPF Events](index.html)
+The Foundation helps to sponsor many events, worldwide, each year. Join us at
+[The Perl and Raku Conference 2025](https://tprc.us).
