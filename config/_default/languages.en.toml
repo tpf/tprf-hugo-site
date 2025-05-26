@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "The Perl and Raku Foundation"
+title = "The Perl & Raku Foundation"
 
 [params]
 displayName = "EN"

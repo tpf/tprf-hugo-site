@@ -23,7 +23,7 @@ their own.
 
 - "Foundation" or "The Foundation" refers to Yet Another Society
   (YAS), also doing business as The Perl Foundation (TPF), The Raku
-  Foundation (TRF) and The Perl and Raku Foundation (TPRF).
+  Foundation (TRF) and The Perl & Raku Foundation (TPRF).
 - "Board" refers to the duly appointed Board of Directors of Yet
   Another Society.
 

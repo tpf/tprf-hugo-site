@@ -1,5 +1,5 @@
 ---
-title: 'The Perl and Raku Foundation - Home'
+title: 'The Perl & Raku Foundation - Home'
 url: '/index.html'
 ---
 
