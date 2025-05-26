@@ -80,7 +80,7 @@ Email
 
 [president@perlfoundation.org](mailto:president@perlfoundation.org)
 
-[![Picture](/images/uploads/1/0/6/6/106663517/published/stuart.png%3F1680035988)]
+![Picture](images/uploads/1/0/6/6/106663517/published/stuart.png%3F1680035988)
 
 Peter Krawczyk, Treasurer
 
@@ -98,7 +98,7 @@ Email
 
 [treasurer@perlfoundation.org](mailto:treasurer@perlfoundation.org)
 
-[![Picture](/images/uploads/1/0/6/6/106663517/krawczyk23bw_orig.jpg)]
+![Picture](images/uploads/1/0/6/6/106663517/krawczyk23bw_orig.jpg)
 
 Makoto Nozaki, Secretary
 
@@ -117,7 +117,7 @@ Email
 
 [makoto@perlfoundation.org](mailto:makoto@perlfoundation.org)
 
-[![Picture](/images/uploads/1/0/6/6/106663517/published/makoto.jpg%3F1680035961)]
+![Picture](images/uploads/1/0/6/6/106663517/published/makoto.jpg%3F1680035961)
 
 Todd Rinaldo
 
@@ -138,7 +138,7 @@ Email
 
 [todd@perlfoundation.org](mailto:todd@perlfoundation.org)
 
-[![Picture](/images/uploads/1/0/6/6/106663517/todd_orig.png)]Daniel Sockwell
+![Picture](images/uploads/1/0/6/6/106663517/todd_orig.png)]Daniel Sockwell
 
 Daniel originally planned a career in law
 before he realised how much he enjoys
@@ -168,4 +168,4 @@ Held
 role since:
 2021
 
-[![Picture](/images/uploads/1/0/6/6/106663517/daniel-sockwell-yas-board_orig.jpg)]
+![Picture](images/uploads/1/0/6/6/106663517/daniel-sockwell-yas-board_orig.jpg)

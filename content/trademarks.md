@@ -31,13 +31,13 @@ these logos should always link to [http://www.perl.org](http://www.perl.org/). T
 promote products and services, or to create the impression
 of an endorsement or certification by TPRF.
 
-![Powered by Perl](/images/uploads/1/0/6/6/106663517/powered-by-perl-300px_orig.png)
+![Powered by Perl](images/uploads/1/0/6/6/106663517/powered-by-perl-300px_orig.png)
 
-![Picture](/images/uploads/1/0/6/6/106663517/powered-by-perl-135px_orig.png)
+![Picture](images/uploads/1/0/6/6/106663517/powered-by-perl-135px_orig.png)
 
-![Picture](/images/uploads/1/0/6/6/106663517/programming-republic-of-perl-300px_orig.png)
+![Picture](images/uploads/1/0/6/6/106663517/programming-republic-of-perl-300px_orig.png)
 
-![Picture](/images/uploads/1/0/6/6/106663517/programming-republic-of-perl-150px_orig.png)
+![Picture](images/uploads/1/0/6/6/106663517/programming-republic-of-perl-150px_orig.png)
 
 ## Perl Marks for Use by TPRF Organizations
 
@@ -58,9 +58,9 @@ organizations should contact us at [trademark@perlfoundation.org](mailto:tradema
 logo, and answers to any questions they have about use of
 the logo.
 
-![Picture](/images/uploads/1/0/6/6/106663517/perl-logo-32x104_orig.png)
+![Picture](images/uploads/1/0/6/6/106663517/perl-logo-32x104_orig.png)
 
-![Picture](/images/uploads/1/0/6/6/106663517/onion-32x32_orig.png)
+![Picture](images/uploads/1/0/6/6/106663517/onion-32x32_orig.png)
 
 ## Use of Perl Marks by YAPC
 
@@ -70,7 +70,7 @@ conferences with prior written permission from TPF.
 Contact [trademark@perlfoundation.org](mailto:trademark@perlfoundation.org) for permission, and once permission is granted, for
 high-resolution versions of the Perl logo.
 
-![Picture](/images/uploads/1/0/6/6/106663517/perl-logo-32x104_1.png)
+![Picture](images/uploads/1/0/6/6/106663517/perl-logo-32x104_1.png)
 
 ## Perl Marks Available for Perl Redistributors
 
@@ -111,7 +111,7 @@ A notice which identifies TPF as the mark's owner must
 also be used. For example: "The Perl logo is a trademark
 of the Perl Foundation."
 
-![Picture](/images/uploads/1/0/6/6/106663517/perl-r-demo_orig.png)
+![Picture](images/uploads/1/0/6/6/106663517/perl-r-demo_orig.png)
 
 ## Onions and the Perl Trademark
 

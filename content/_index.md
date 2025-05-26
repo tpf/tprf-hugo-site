@@ -9,11 +9,11 @@ through open discussion, collaboration, design, and code.
 
 ### Gold Level
 
-<img src="/images/duck-duck-go.svg" alt="DuckDuckGo" title="DuckDuckGo" width="400">
+<img src="images/duck-duck-go.svg" alt="DuckDuckGo" title="DuckDuckGo" width="400">
 
 ### Silver Level
 
-<img src="/images/webpros.svg" alt="WebPros" title="WebPros" width="400">
+<img src="images/webpros.svg" alt="WebPros" title="WebPros" width="400">
 
 ## Funding Perl and Raku development
 
