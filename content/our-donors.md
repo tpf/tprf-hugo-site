@@ -14,32 +14,14 @@ donations, these companies are great options for
 programmers looking for good jobs at companies that use
 Perl extensively.
 
-### Diamond Level
-
-### Sponsors
-
-[![Picture](/images/uploads/1/0/6/6/106663517/editor/1280px-booking-com-logo-svg.png%3F1544373097)](https://www.booking.com)
-
-[![Picture](/images/uploads/1/0/6/6/106663517/published/cpanel-logo-svg.png%3F1544373226)](https://cpanel.com)
-
-[![Picture](/images/uploads/1/0/6/6/106663517/published/craigslist-logo.png%3F1544373241)](https://www.craigslist.org)
+## Current Sponsors
 
 ### Gold Level
 
-### Sponsors
-
-[![Picture](/images/uploads/1/0/6/6/106663517/published/assurant-logo_1.png%3F1544375606)](https://www.assurant.com)
-
-[![Picture](/images/uploads/1/0/6/6/106663517/published/bluehost.png%3F1544375621)](https://www.bluehost.com/)
-
-[![Picture](/images/uploads/1/0/6/6/106663517/published/gsg-logo-large.png%3F1544375616)](https://www.grantstreet.com)
+<img src="/duck-duck-go.svg" alt="WebPros" title="WebPros" width="400">
 
 ### Silver Level
 
-### Sponsors
+<img src="/webpros.svg" alt="WebPros" title="WebPros" width="400">
 
-[![Picture](/images/uploads/1/0/6/6/106663517/published/ii-logo-250x250-r2015.png%3F1544374002)](https://www.iinteractive.com)
-
-[![Picture](/images/uploads/1/0/6/6/106663517/published/camelia-logo.png%3F1544374013)](https://perl6.org)
-
-[![Picture](/images/uploads/1/0/6/6/106663517/published/rshughes.png%3F1544374105)](https://www.rshughes.com/)
+We are also very grateful to our [past sponsors](past-sponsors.html).
