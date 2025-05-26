@@ -59,6 +59,12 @@ weight = 6
 target = "_blank"
 
 [[main]]
+parent = "about"
+name = "Affiliates"
+url = "/affiliates.html"
+weight = 7
+
+[[main]]
 name = "Donate"
 url = "/donate.html"
 weight = 3
