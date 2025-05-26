@@ -1,5 +1,5 @@
 ---
-title: 'Our Donors'
+title: 'Our Sponsors'
 url: '/our-donors.html'
 ---
 
@@ -13,8 +13,6 @@ the community. In addition to supporting Perl with
 donations, these companies are great options for
 programmers looking for good jobs at companies that use
 Perl extensively.
-
-## Current Sponsors
 
 ### Gold Level
 

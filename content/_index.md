@@ -7,11 +7,11 @@ The Perl & Raku Foundation is dedicated to the
 advancement of the Perl and Raku programming languages,
 through open discussion, collaboration, design, and code.
 
-### Gold Level
+### Gold Level Sponsor
 
 <img src="images/duck-duck-go.svg" alt="DuckDuckGo" title="DuckDuckGo" width="400">
 
-### Silver Level
+### Silver Level Sponsor
 
 <img src="images/webpros.svg" alt="WebPros" title="WebPros" width="400">
 

@@ -73,7 +73,7 @@ hasChildren = true
 
 [[main]]
 parent = "donate"
-name = "Our Donors"
+name = "Our Sponsors"
 url = "/our-donors.html"
 weight = 1
 
