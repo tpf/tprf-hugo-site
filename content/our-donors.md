@@ -18,10 +18,10 @@ Perl extensively.
 
 ### Gold Level
 
-<img src="/duck-duck-go.svg" alt="WebPros" title="WebPros" width="400">
+<img src="duck-duck-go.svg" alt="WebPros" title="WebPros" width="400">
 
 ### Silver Level
 
-<img src="/webpros.svg" alt="WebPros" title="WebPros" width="400">
+<img src="webpros.svg" alt="WebPros" title="WebPros" width="400">
 
 We are also very grateful to our [past sponsors](past-sponsors.html).

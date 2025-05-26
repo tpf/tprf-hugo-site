@@ -9,11 +9,11 @@ through open discussion, collaboration, design, and code.
 
 ### Gold Level Sponsor
 
-<img src="/duck-duck-go.svg" alt="WebPros" title="WebPros" width="400">
+<img src="duck-duck-go.svg" alt="WebPros" title="WebPros" width="400">
 
 ### Silver Level Sponsor
 
-<img src="/webpros.svg" alt="WebPros" title="WebPros" width="400">
+<img src="webpros.svg" alt="WebPros" title="WebPros" width="400">
 
 ## Funding Perl and Raku development
 
