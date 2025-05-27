@@ -99,9 +99,10 @@ TPF and Perl
 - [Artistic License 1.0](artistic-license-10.html)
 - [CPAN Licensing Guideleines](cpan-licensing-guidelines.html)
 
-Our profound thanks to [Roberta Cairney](http://www.cairneylawoffices.com/), John Sullivan, and [Charles E. Gotlieb](http://www.i-plaw.com/) for their work in drafting and refining the
-Artistic License 2.0, as well as TPF's contributor license
-agreement and trademark policies.
+Our profound thanks to [Roberta Cairney](http://www.cairneylawoffices.com/),
+John Sullivan, and [Charles E. Gotlieb](http://www.i-plaw.com/) for their work
+in drafting and refining the Artistic License 2.0, as well as TPF's contributor
+license agreement and trademark policies.
 
 Establishing the Foundation
 
