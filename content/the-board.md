@@ -105,3 +105,24 @@ the TPF Legal Committee. He was also a moderator for the 2021 Perl and Raku
 Conference.
 
 Held role since: 2021
+
+### Ruth Holloway
+
+![Picture](images/headshots/ruth.png)
+
+Over the course of her 40-plus year career, Ruth has worked in six different
+programming languages on nearly a dozen different operating systems; for the
+last 20 of those, she's been doing most of her coding in Perl. She is a Texan,
+transplanted to the tranquil woods of northeast Georgia with her husband and
+the cutest dog around.
+
+"Former Auror, Ministry malcontent, and your new Defense Against The Dark Arts
+teacher."
+
+Ruth joined the board in June of 2024.
+
+### Bruce Gray
+
+![Picture](images/headshots/bruce.png)
+
+Bruce joined the board in June of 2024.
