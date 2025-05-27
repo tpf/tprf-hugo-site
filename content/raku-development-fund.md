@@ -98,7 +98,7 @@ time-based grants, payment will be for hours worked. For
 milestone based grants, payment will be made up to the
 last completed milestone.
 
-Management of Fund
+## Management of Fund
 
 ### Administration Costs
 
@@ -169,7 +169,7 @@ description.)
 (Please be as
 realistic as possible.)
 
-### Bio.:
+### Bio:
 
 (Who are you? What makes you
 the best person to work on this project?)

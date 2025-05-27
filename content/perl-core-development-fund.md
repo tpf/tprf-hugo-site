@@ -63,7 +63,7 @@ notes should include an acknowledgment that work was
 funded by The Perl Foundation’s Perl Core Development
 Fund.
 
-Reporting
+### Reporting
 
 Successful applicants must provide a monthly report to
 the Perl Porters mailing list and The Perl Foundation News
