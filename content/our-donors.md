@@ -6,13 +6,19 @@ url: '/our-donors.html'
 ---
 ## Gold Level
 
-<img src="images/duck-duck-go.svg" alt="DuckDuckGo" title="DuckDuckGo" width="400">
+[<img src="images/duck-duck-go.svg" alt="DuckDuckGo" title="DuckDuckGo" width="400">](https://duckduckgo.com/)
 
 ---
 
 ## Silver Level
 
-<img src="images/webpros.svg" alt="WebPros" title="WebPros" width="400">
+[<img src="images/webpros.svg" alt="WebPros" title="WebPros" width="400">](https://www.webpros.com/)
+
+---
+
+## Bronze Level
+
+[<img src="images/ecard-logo.svg" alt="e-card" title="e-card" width="150">](https://www.e-card.bg/)
 
 ---
 

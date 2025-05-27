@@ -9,11 +9,15 @@ url: '/index.html'
 
 ### Gold Level Sponsor
 
-<img src="images/duck-duck-go.svg" alt="DuckDuckGo" title="DuckDuckGo" width="400">
+[<img src="images/duck-duck-go.svg" alt="DuckDuckGo" title="DuckDuckGo" width="400">](https://duckduckgo.com/)
 
 ### Silver Level Sponsor
 
-<img src="images/webpros.svg" alt="WebPros" title="WebPros" width="400">
+[<img src="images/webpros.svg" alt="WebPros" title="WebPros" width="400">](https://www.webpros.com/)
+
+### Bronze Level Sponsor
+
+[<img src="images/ecard-logo.svg" alt="e-card" title="e-card" width="150">](https://www.e-card.bg/)
 
 ## Funding Perl and Raku development
 
