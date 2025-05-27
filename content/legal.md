@@ -111,4 +111,4 @@ Establishing the Foundation
 - First Meeting of Board of
   Directors: [first-board.html](http://www.perlfoundation.org/attachment/legal/first-board.html)
 - [Conflict of Interest
-  Policy](http://www.perlfoundation.org/conflict_of_interest_policy)
+  Policy](conflict-of-interest-policy.html)
