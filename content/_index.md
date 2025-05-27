@@ -3,9 +3,9 @@ title: 'The Perl & Raku Foundation'
 url: '/index.html'
 ---
 
-The Perl & Raku Foundation is dedicated to the
-advancement of the Perl and Raku programming languages,
-through open discussion, collaboration, design, and code.
+> The Perl & Raku Foundation is dedicated to the advancement of the Perl and Raku
+> programming languages, through open discussion, collaboration, design, and
+> code.
 
 ### Gold Level Sponsor
 
