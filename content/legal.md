@@ -12,11 +12,12 @@ explaining what we do.
 
 How TPF Works
 
-I often get asked about my role in TPF and how TPF
-works, in the sense of "Who's in charge?" So, instead of
-pointing people to the legalese in the bylaws and
-committee charters, this is an explanation of TPF's
-structure in plain English. --Allison
+> I often get asked about my role in TPF and how TPF works, in the sense of
+> "Who's in charge?" So, instead of pointing people to the legalese in the
+> bylaws and committee charters, this is an explanation of TPF's structure in
+> plain English.
+
+--Allison
 
 The top level of TPF is the board of directors.
 It holds the ultimate authority in the organization, but in
