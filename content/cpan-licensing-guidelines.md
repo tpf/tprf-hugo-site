@@ -95,7 +95,7 @@ license: artistic2
   is required), changing the sentence in the license notice to:
 
 For more details, see the full text of the licenses at
-<http://www.perlfoundation.org/artistic_license_1_0>,
+[artistic-license-10.html](artistic-license-10.html),
 and <http://www.gnu.org/licenses/gpl-2.0.html>.
 URLs
 can change, so it's best to use a reliable URL like The Perl
