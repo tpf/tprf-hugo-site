@@ -35,29 +35,26 @@ If any members of the Perl or Raku communities wish to ask their employers or
 other associates if they would be willing to donate to TPF, please share [our
 prospectus](https://drive.google.com/file/d/1pQJfIW0u-4gKw1o-f18GyyPdT3YlwrUv/view)
 
-Perl is part of the technology stack running many of
-today’s businesses. Our donors and sponsors use Perl and
-Raku to power their businesses. That’s one reason they
-contribute back to our community. But there is so much
-more that sponsorship can bring to the community.
+Perl is part of the technology stack running many of today’s businesses. Our
+donors and sponsors use Perl and Raku to power their businesses. That’s one
+reason they contribute back to our community. But there is so much more that
+sponsorship can bring to the community.
 
-- TPF holds [conferences](https://www.perlfoundation.org/events.html)
-  that bring together the Perl and Raku community. Speakers give
-  technical talks and the community gets together to discuss
-  approaches to solving the latest technical problems.
-- TPF provides [grants](grants.html) directly in support of projects
-  that benefit Perl and Raku users.
+- TPF holds [conferences](https://tprc.us) that bring together the Perl and
+  Raku community. Speakers give technical talks and the community gets together
+  to discuss approaches to solving the latest technical problems.
+- TPF provides [grants](grants.html) directly in support of projects that
+  benefit Perl and Raku users.
 - TPF will take new steps to reach out to the community, training new
-  programmers in Perl. It will create an online beginner video
-  training course and provide beginner training scholarships.
-- [Outreachy](https://www.outreachy.org/): This internship program
-  supports diversity in free and open source software. TPF sponsors
-  this both financially and by providing the interns with a mentor.
-- We provide a [job posting website ](https://jobs.perl.org/)where
-  employers can share information about their open positions.
-- Support for [CPAN](https://cpan.org/) and
-  [MetaCPAN](https://metacpan.org/).
-- TPF hosts events across the world to encourage the formation of new
-  local groups as well as re-invigorate existing groups.
-- Through online efforts and open-source conferences, TPF will
-  continue to advocate Perl and Raku to the world.
+  programmers in Perl. It will create an online beginner video training course
+  and provide beginner training scholarships.
+- [Outreachy](https://www.outreachy.org/): This internship program supports
+  diversity in free and open source software. TPF sponsors this both
+  financially and by providing the interns with a mentor.
+- We provide a [job posting website ](https://jobs.perl.org/)where employers
+  can share information about their open positions.
+- Support for [CPAN](https://cpan.org/) and [MetaCPAN](https://metacpan.org/).
+- TPF hosts events across the world to encourage the formation of new local
+  groups as well as re-invigorate existing groups.
+- Through online efforts and open-source conferences, TPF will continue to
+  advocate Perl and Raku to the world.
