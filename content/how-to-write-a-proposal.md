@@ -31,4 +31,4 @@ to the public nor used in the voting process.**
 
 For queries, more information or assistance with
 preparing proposals, please contact the
-[TPF grants secretary](mailto:tpf-grants-secretary@perlfoundation.org).
+[TPRF grants secretary](mailto:tpf-grants-secretary@perlfoundation.org).

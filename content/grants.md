@@ -35,9 +35,9 @@ opens a call for grant proposals every two months. During
 this two week window, grant requests are posted for public
 feedback and refined before they are evaluated by the Grants
 Committee. The committee members then review and vote on any
-proposals. Grants that are approved are funded by TPF, and
+proposals. Grants that are approved are funded by TPRF, and
 assigned a manager for the duration of the grant to act as a
-liaison between the grantee and TPF. This manager is usually
+liaison between the grantee and TPRF. This manager is usually
 a member of the Grants Committee.
 
 For a current
@@ -45,7 +45,7 @@ list of members, see the
 [Who's Who](committees.html) page.
 
 The
-Grants Committee is an important interface between TPF, the
+Grants Committee is an important interface between TPRF, the
 Perl and Raku communities, and the companies and developers
 that use these languages in their software and processes. As
 the grants bring about enhancements to the languages and

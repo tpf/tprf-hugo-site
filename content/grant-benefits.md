@@ -50,8 +50,8 @@ language.
 
 ### Tax Deductibility:
 
-TPF is a non-profit, 501(c)(3) organization with offices
-in Holland, Michigan. All donations to TPF are tax
+TPRF is a non-profit, 501(c)(3) organization with offices
+in Holland, Michigan. All donations to TPRF are tax
 deductible for US residents. Donations may also qualify as
 tax deductions by individuals in other countries as well
 (check your local regulations). Employers may match
@@ -79,14 +79,14 @@ garnering community recognition and approval.
 
 ### Publicity:
 
-TPF publicity acknowledges all sponsors, and provides
+TPRF publicity acknowledges all sponsors, and provides
 special recognition for large donors.
 Sponsors donation US$5,000 or more have the opportunity
-to display their corporate logo on the TPF website, with a
+to display their corporate logo on the TPRF website, with a
 link to their home-page and a personalized note of
-recognition and thanks from TPF.
+recognition and thanks from TPRF.
 Sponsors contributing US$10,000 or more may additionally
-set up their own page on the TPF website (with only minor
+set up their own page on the TPRF website (with only minor
 restrictions on content).
 Sponsors donating US$50,000 or more are also granted the
 naming rights to a particular grant. For example: "The 202
@@ -94,7 +94,7 @@ GoodWillCorp Perl Development Grant".
 
 ### Software:
 
-All software developed under a TPF Development grant must
+All software developed under a TPRF Development grant must
 be released under a publicly available license that is
 free for redistribution and use without discrimination
 against field of endeavor. The fruits of the work are thus

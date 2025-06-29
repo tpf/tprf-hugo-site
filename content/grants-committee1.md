@@ -163,11 +163,11 @@ Grant Managers do not need to be the members of the
 Committee.
 
 One voting member is the Committee Secretary. The
-Secretary represents the Grants Committee in the TPF
+Secretary represents the Grants Committee in the TPRF
 Steering Committee.
 
 The Secretary is nominated and elected by the
-Committee and approved by the TPF board.
+Committee and approved by the TPRF board.
 
 The secretary is responsible for managing grant
 proposals, votes, and all other administrative
@@ -184,7 +184,7 @@ from the initial round of voting.
 5. Amendments and Exceptions
 
 Changes to these rules must be approved by 2/3 of
-the Grants Committee and by the TPF Board of Directors.
+the Grants Committee and by the TPRF Board of Directors.
 
 In special circumstances exceptions to these rules may
 be made, being approved by 2/3 of the Grants Committee.

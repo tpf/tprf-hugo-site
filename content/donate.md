@@ -20,11 +20,11 @@ There are many ways you can donate to The Perl Foundation:
   giving](https://causes.benevity.org/causes/840-383536536) (Google,
   Microsoft, and hundreds of other businesses use Benevity), then you
   can opt to have donations (and possibly employer-matches) made to
-  TPF directly through your pay check. Apple has a similar program,
+  TPRF directly through your pay check. Apple has a similar program,
   which we also participate in.
 - [Shop at Amazon
   Smile](https://smile.amazon.com/gp/chpf/homepage/ref=smi_chpf_redirect/138-2474394-5588856?ie=UTF8&ein=38-3536536&ref_=smi_ext_ch_38-3536536_cl) -
-  sign up to Amazon Smile and every time you make a purchase, TPF will
+  sign up to Amazon Smile and every time you make a purchase, TPRF will
   receive a small donation through Amazon - at no cost to you.
 
 ### If you require an invoice for your donation, please
@@ -32,7 +32,7 @@ There are many ways you can donate to The Perl Foundation:
 contact [treasurer@perlfoundation.org](mailto:treasurer@perlfoundation.org).
 
 If any members of the Perl or Raku communities wish to ask their employers or
-other associates if they would be willing to donate to TPF, please share [our
+other associates if they would be willing to donate to TPRF, please share [our
 prospectus](https://drive.google.com/file/d/1pQJfIW0u-4gKw1o-f18GyyPdT3YlwrUv/view)
 
 Perl is part of the technology stack running many of today’s businesses. Our
@@ -40,21 +40,21 @@ donors and sponsors use Perl and Raku to power their businesses. That’s one
 reason they contribute back to our community. But there is so much more that
 sponsorship can bring to the community.
 
-- TPF holds [conferences](https://tprc.us) that bring together the Perl and
+- TPRF holds [conferences](https://tprc.us) that bring together the Perl and
   Raku community. Speakers give technical talks and the community gets together
   to discuss approaches to solving the latest technical problems.
-- TPF provides [grants](grants.html) directly in support of projects that
+- TPRF provides [grants](grants.html) directly in support of projects that
   benefit Perl and Raku users.
-- TPF will take new steps to reach out to the community, training new
+- TPRF will take new steps to reach out to the community, training new
   programmers in Perl. It will create an online beginner video training course
   and provide beginner training scholarships.
 - [Outreachy](https://www.outreachy.org/): This internship program supports
-  diversity in free and open source software. TPF sponsors this both
+  diversity in free and open source software. TPRF sponsors this both
   financially and by providing the interns with a mentor.
 - We provide a [job posting website ](https://jobs.perl.org/)where employers
   can share information about their open positions.
 - Support for [CPAN](https://cpan.org/) and [MetaCPAN](https://metacpan.org/).
-- TPF hosts events across the world to encourage the formation of new local
+- TPRF hosts events across the world to encourage the formation of new local
   groups as well as re-invigorate existing groups.
-- Through online efforts and open-source conferences, TPF will continue to
+- Through online efforts and open-source conferences, TPRF will continue to
   advocate Perl and Raku to the world.

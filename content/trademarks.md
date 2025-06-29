@@ -46,7 +46,7 @@ onion logo are available for use by Perl Mongers,
 PerlMonks, and Perl.org, which are part of TPRF.
 
 These Perl marks are available for use on their websites and materials
-promoting Perl, TPF, and their projects (on t-shirts, mugs, flyers, etc.).
+promoting Perl, TPRF, and their projects (on t-shirts, mugs, flyers, etc.).
 
 This
 authorization to use the Perl logo is limited to uses by
@@ -66,7 +66,7 @@ the logo.
 
 The affiliated YAPC conferences around the world may use
 the Perl logo on their websites or materials promoting the
-conferences with prior written permission from TPF.
+conferences with prior written permission from TPRF.
 Contact [trademark@perlfoundation.org](mailto:trademark@perlfoundation.org) for permission, and once permission is granted, for
 high-resolution versions of the Perl logo.
 
@@ -96,18 +96,18 @@ Marks must always be legible and clearly reproduced.
 
 Do not incorporate any Perl marks into the marks, logos,
 or name of your business, project, or organization,
-unless you have the prior written permission of TPF.
+unless you have the prior written permission of TPRF.
 
 Marks must be used in their entirety. Any variation in
 the form of the mark must be approved in advance in
-writing by TPF. A trademark symbol should follow all
+writing by TPRF. A trademark symbol should follow all
 prominent uses of the marks. Certain types of projects,
 products and packaging may require additional notices.
 Please contact us for more information and to discuss
 your intended use. Use the trademark symbol as shown
 below.
 
-A notice which identifies TPF as the mark's owner must
+A notice which identifies TPRF as the mark's owner must
 also be used. For example: "The Perl logo is a trademark
 of the Perl Foundation."
 
@@ -115,9 +115,9 @@ of the Perl Foundation."
 
 ## Onions and the Perl Trademark
 
-People sometimes ask if TPF's use of an onion in the Perl
+People sometimes ask if TPRF's use of an onion in the Perl
 logo means that independent projects that use or relate to
-Perl need TPF's permission to use an onion of their own
+Perl need TPRF's permission to use an onion of their own
 design in connection with their project.
 
 The

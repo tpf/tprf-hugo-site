@@ -48,7 +48,7 @@ support, are important to help the Perl and Raku communities.
 
 The President of the Foundation is free to choose their focus for activity in
 their role: the first President concentrated on conferences and on
-incorporating TPF as a non-profit foundation; the previous President focused on
+incorporating TPRF as a non-profit foundation; the previous President focused on
 stability. In his role as President, Stuart is keen to develop committees and
 engagement with the Perl and Raku communities, as well as sponsors and other
 foundations.
@@ -101,7 +101,7 @@ became a programmer. He has written JavaScript, Rust, and Raku professionally
 and enjoys exploring many other languages.
 
 As well as being a Board member, Dan serves on the Raku Steering Council and
-the TPF Legal Committee. He was also a moderator for the 2021 Perl and Raku
+the TPRF Legal Committee. He was also a moderator for the 2021 Perl and Raku
 Conference.
 
 Held role since: 2021

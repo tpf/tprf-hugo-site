@@ -3,13 +3,13 @@ title: 'License FAQ'
 url: '/license-faq.html'
 ---
 
-### Why has TPF adopted a CLA process?
+### Why has TPRF adopted a CLA process?
 
 We
 all know that code needs to be documented with a certain
 amount of care and accuracy. Good documentation benefits
 both programmers and users. The legal relationships between
-contributors, users, and TPF need to be documented for
+contributors, users, and TPRF need to be documented for
 similar reasons: long-term project stability, meeting the
 needs of open source users for adequate and effective legal
 documentation, and reducing the risk of disruptive legal
@@ -59,7 +59,7 @@ the employer's rights, in order to make the contribution.
 ### Do I have to list any, or all, of my prior contributions? That could be impossible.
 
 You are not required to list any of your prior
-contributions. However, as part of the TPF process for
+contributions. However, as part of the TPRF process for
 documenting contribution licenses, we may ask you to list
 key prior contributions. You are also free to specify them
 on the schedule on your own, if you would like to do so.
@@ -70,5 +70,5 @@ Patents are treated separately because the legal
 rules for patents are significantly different from the rules
 for other kinds of intellectual property. One goal of the
 patent clause is to reduce the likelihood of patent
-infringement claims by terminating the license to use TPF
-code of anyone who asserts that TPF code infringes a patent.
+infringement claims by terminating the license to use TPRF
+code of anyone who asserts that TPRF code infringes a patent.

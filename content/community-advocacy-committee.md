@@ -62,7 +62,7 @@ operation of the Committee.
 Any rule promulgated under
 this section, which in the opinion of the Board's
 representative on the committee, is potentially harmful to
-TPF, shall be held in abeyance until a review by the
+TPRF, shall be held in abeyance until a review by the
 Board.
 
 ### 4. Membership

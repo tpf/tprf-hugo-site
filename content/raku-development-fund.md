@@ -119,7 +119,7 @@ change.
 
 If a period of one year has elapsed with no grants in
 progress and no new applications, the remaining funds
-will be transferred to the TPF general fund.
+will be transferred to the TPRF general fund.
 
 Application
 In order to apply for a grant under this fund the

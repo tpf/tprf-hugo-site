@@ -7,17 +7,6 @@ url: '/index.html'
 > programming languages, through open discussion, collaboration, design, and
 > code.
 
-### Gold Level Sponsor
-
-[<img src="images/duck-duck-go.svg" alt="DuckDuckGo" title="DuckDuckGo" width="400">](https://duckduckgo.com/)
-
-### Silver Level Sponsor
-
-[<img src="images/webpros.svg" alt="WebPros" title="WebPros" width="400">](https://www.webpros.com/)
-
-### Bronze Level Sponsor
-
-[<img src="images/ecard-logo.svg" alt="e-card" title="e-card" width="150">](https://www.e-card.bg/)
 
 ## Funding Perl and Raku development
 
@@ -33,10 +22,10 @@ prospectus](https://drive.google.com/file/d/1pQJfIW0u-4gKw1o-f18GyyPdT3YlwrUv/vi
 
 ## Donate
 
-Your generous donations help to fund TPF grant programs. Thinking of [becoming
+Your generous donations help to fund TPRF grant programs. Thinking of [becoming
 a donor](donate.html)?
 
-## TPF Grants
+## TPRF Grants
 
 Our [grant programs](grants.html) help fund development of open source projects to benefit
 Perl, Raku and the broader Community. These grants are funded by donations and
@@ -49,3 +38,16 @@ ideas, code, and have fun.
 
 The Foundation helps to sponsor many events, worldwide, each year. Join us at
 [The Perl and Raku Conference 2025](https://tprc.us).
+
+### Gold Level Sponsor
+
+[<img src="images/duck-duck-go.svg" alt="DuckDuckGo" title="DuckDuckGo" width="400">](https://duckduckgo.com/)
+
+### Silver Level Sponsor
+
+[<img src="images/webpros.svg" alt="WebPros" title="WebPros" width="400">](https://www.webpros.com/)
+
+### Bronze Level Sponsor
+
+[<img src="images/ecard-logo.svg" alt="e-card" title="e-card" width="150">](https://www.e-card.bg/)
+

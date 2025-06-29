@@ -10,34 +10,34 @@ you'll see in the earlier documents. We now use the name
 The Perl Foundation, because it does a better job of
 explaining what we do.
 
-How TPF Works
+How TPRF Works
 
-> I often get asked about my role in TPF and how TPF works, in the sense of
+> I often get asked about my role in TPRF and how TPRF works, in the sense of
 > "Who's in charge?" So, instead of pointing people to the legalese in the
-> bylaws and committee charters, this is an explanation of TPF's structure in
+> bylaws and committee charters, this is an explanation of TPRF's structure in
 > plain English.
 
 --Allison
 
-The top level of TPF is the board of directors.
+The top level of TPRF is the board of directors.
 It holds the ultimate authority in the organization, but in
 practice only exercises veto power. The board is
 self-electing, and usually draws its candidates from the
-pool of TPF volunteers.
+pool of TPRF volunteers.
 
 The active members of the
-board are the president, who oversees the daily work of TPF,
+board are the president, who oversees the daily work of TPRF,
 and the treasurer, who acts as a final sanity check on all
 expenses. These positions are elected by the board. Each
 president is free to choose their focus for activity: the
 first president concentrated on conferences and on
-incorporating TPF as a non-profit foundation; the current
+incorporating TPRF as a non-profit foundation; the current
 president concentrates on general Perl legal issues and on
-building TPF's relations with companies and other open
+building TPRF's relations with companies and other open
 source foundations.
 
 The next level is the
-Steering Committee (SC), which handles the real work of TPF.
+Steering Committee (SC), which handles the real work of TPRF.
 The committee is chartered with the full power of the board,
 aside from a few financial restrictions (they need board
 approval to spend huge gobs of cash or put the foundation
@@ -60,7 +60,7 @@ This committee is self-electing and largely made up of
 organizers from previous YAPC's.
 
 The majority of
-TPF's work is done by volunteers, and all it takes to become
+TPRF's work is done by volunteers, and all it takes to become
 a volunteer is to do the job you're volunteering for and
 talk to the relevant committee. It's a meritocracy, so we're
 more concerned with what people do than with titles, but if
@@ -90,7 +90,7 @@ invited to step up.
 
 [Trademarks](trademarks.html)
 
-TPF and Perl
+TPRF and Perl
 
 - [Contributor License Agreement](contributor-license-agreement.html)
 - [License FAQ](license-faq.html)
@@ -101,7 +101,7 @@ TPF and Perl
 
 Our profound thanks to [Roberta Cairney](http://www.cairneylawoffices.com/),
 John Sullivan, and [Charles E. Gotlieb](http://www.i-plaw.com/) for their work
-in drafting and refining the Artistic License 2.0, as well as TPF's contributor
+in drafting and refining the Artistic License 2.0, as well as TPRF's contributor
 license agreement and trademark policies.
 
 Establishing the Foundation

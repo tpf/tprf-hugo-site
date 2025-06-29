@@ -3,7 +3,7 @@ title: 'How Do Sponsors Benefit?'
 url: '/how-do-sponsors-benefit.html'
 ---
 
-## TPF and You
+## TPRF and You
 
 Your recognition as a sponsor
 

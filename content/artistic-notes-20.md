@@ -34,7 +34,7 @@ Artistic License that ships with the Standard Version" far
 too many times through the license, so we decided to define
 it in one place. The "original license" identifies the
 license that the developer used to distribute their code. It
-also lets the users know that TPF might update the license
+also lets the users know that TPRF might update the license
 in the future, and that developers who have distributed
 under one version of the license can always upgrade to
 another. This isn't an automatic upgrade. If you distribute
