@@ -8,6 +8,5 @@ The themes are installed as sub-modules, so make sure to use the following comma
 
 ```
 git clone --recurse-submodules --shallow-submodules https://github.com/tpf/tprf-hugo-site
-cd tpf-hugo
 hugo serve
 ```
