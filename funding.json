@@ -9,7 +9,7 @@
         "name": "Yet Another Society d/b/a The Perl and Raku Foundation",                     // Required. Name of the entity. Max len 250.
         "email": "board@perlfoundation.org",                    // Required. Max len 250.
         "phone": "",                    // Optional. Generally suitable for organisations. Max len 32.
-        "description": "​The Perl & Raku Foundation is dedicated to the advancement of the Perl and Raku programming languages, through open discussion, collaboration, design, and code."  // Required. Information about the entity. Max len 2000.
+        "description": "The Perl & Raku Foundation is dedicated to the advancement of the Perl and Raku programming languages, through open discussion, collaboration, design, and code."  // Required. Information about the entity. Max len 2000.
         "webpageUrl": {
             "url": "https://perlfoundation.org",                  // Required. Webpage with information about the entity. Starts with https:// or http://. Max len 250.
             "wellKnown": ""             // (TODO we need to add this to perlfoundation.org) Optional. Required if the above url and the URL of the funding.json manifest do not have the same hostname. Starts with https:// or http://. Max len 250.
@@ -21,16 +21,16 @@
         "guid": "perl5-core-maintenance",                     // Required. A short unique ID for the project. Lowercase-alphanumeric-dashes only. eg: my-cool-project. Max len 32.
         "name": "Perl 5 Core Maintenance Fund",                     // Required. Name of the project. Max len 250.
         "description": "We support development and maintenance of the Perl core through grants to core developers, who are guided by the decisions of the Perl Steering Council",              // Required. Description of the project. Max len 2000.
-        "webpageUrl": {   // TODO: Olaf, can we use perl.com for this?  I presume you can touch the well-known for this.
-            "url": "",                  // Required. Webpage with information about the project. Starts with https:// or http://. Max len 250.
+        "webpageUrl": {
+            "url": "https://perlfoundation.org/perl-core-development-fund.html",                  // Required. Webpage with information about the project. Starts with https:// or http://. Max len 250.
             "wellKnown": ""             // Optional. Required if the above url and the URL of the funding.json manifest do not have the same hostname. Starts with https:// or http://. Max len 250.
         },
-        "repositoryUrl": {   // TODO:  I think if we specify this project, we'll have to get a well-known in the Perl 5 repo?
-            "url": "",                  // Required. URL of the repository where the project's source code and other assets are available. Starts with https:// or http://. Max len 250.
-            "wellKnown": ""             // Optional. Required if the above url and the URL of the funding.json manifest do not have the same hostname. Starts with https:// or http://. Max len 250.
+        "repositoryUrl": {
+            "url": "https://github.com/Perl/perl5",                  // Required. URL of the repository where the project's source code and other assets are available. Starts with https:// or http://. Max len 250.
+            "wellKnown": "https://github.com/Perl/perl5/.well-known/funding.json"             // Optional. Required if the above url and the URL of the funding.json manifest do not have the same hostname. Starts with https:// or http://. Max len 250.
         },
-        "licenses": [],                 // Required. The project's licenses (up to 5). For standard licenses, use the license ID from the SDPX index prefixed by "spdx:". eg: "spdx:GPL-3.0", "spdx:CC-BY-SA-4.0"
-        "tags": []                      // Required. Up to 10 general tags describing the project. Lowercase-alphanumeric-dashes (max 32 chars). eg: ["programming", "developer-tools"]. For reference, see tags.txt
+        "licenses": ["spdx:Artistic-1.0-Perl", "spdx:GPL-1.0-or-later"],                 // Required. The project's licenses (up to 5). For standard licenses, use the license ID from the SDPX index prefixed by "spdx:". eg: "spdx:GPL-3.0", "spdx:CC-BY-SA-4.0"
+        "tags": ["programming", "perl", "interpreter", "scripting", "open-source", "core", "maintenance"]                      // Required. Up to 10 general tags describing the project. Lowercase-alphanumeric-dashes (max 32 chars). eg: ["programming", "developer-tools"]. For reference, see tags.txt
     }],
 
     // Required.
@@ -44,14 +44,14 @@
         }],
 
         // Required. One or more funding and payment plans.
-        "plans": [{ // TODO Olaf, you're up!
-            "guid": "",                 // Required. A short unique ID for the plan. Lowercase-alphanumeric-dashes only. eg: mybank, paypal. Max len 32.
-            "status": "",               // Required. [active, inactive]. Indicates whether this plan is currently active or inactive.
-            "name": "",                 // Required. Name of the funding plan. eg: "Starter support plan", "Infra hosting", "Monthly funding plan".
-            "description": "",          // Optional. Any additional description or instructions for the funding plan.
+        "plans": [{
+            "guid": "perl5-core-maintenance-fund",                 // Required. A short unique ID for the plan. Lowercase-alphanumeric-dashes only. eg: mybank, paypal. Max len 32.
+            "status": "active",               // Required. [active, inactive]. Indicates whether this plan is currently active or inactive.
+            "name": "Perl 5 Core Maintenance Fund",                 // Required. Name of the funding plan. eg: "Starter support plan", "Infra hosting", "Monthly funding plan".
+            "description": "Ongoing funding for Perl 5 core development and maintenance grants. Donations support grants awarded to core developers who contribute to the improvement and maintenance of the Perl programming language.",          // Optional. Any additional description or instructions for the funding plan.
             "amount": 0,                // Required. The solicited amount for this plan. 0 is a wildcard that indicates "any amount".
             "currency": "USD",             // Required. Three letter ISO 4217 currency code. eg: USD
-            "frequency": "",            // Required. [one-time, weekly, fortnightly, monthly, yearly, other]
+            "frequency": "one-time",            // Required. [one-time, weekly, fortnightly, monthly, yearly, other]
             "channels": ["perl5-pinnacle-bank"]              // Required. One or more channel IDs defined in channels[] via which this plan can accept payments.
         }],
 
@@ -61,8 +61,8 @@
             "income": 0,                // Optional.
             "expenses": 0,              // Optional.
             "taxes": 0,                 // Optional.
-            "currency": "",             // Required. Three letter ISO 4217 currency code. eg: USD
-            "description": ""           // Optional. Any additional description. Max length 500.
+            "currency": "USD",             // Required. Three letter ISO 4217 currency code. eg: USD
+            "description": "Perl 5 Core Maintenance Fund"           // Optional. Any additional description. Max length 500.
         }]
     }
 }
